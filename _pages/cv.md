@@ -1,5 +1,5 @@
 ---
-permalink: /CV/
+permalink: /
 title: "CV"
 toc: true
 ---
