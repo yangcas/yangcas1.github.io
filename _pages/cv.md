@@ -1,10 +1,7 @@
 ---
-layout: archive
+permalink: /CV/
 title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+toc: true
 ---
 
 Education
