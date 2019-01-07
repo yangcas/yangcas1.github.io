@@ -34,10 +34,10 @@ toc: true
 
 ## Publications
 
+{% include video id="GcR-4sVL_1o" provider="youtube" %}
 
-YouTube video embed below.
-
-{% include video id="XsxDH4HcOWA" provider="youtube" %}
+  <ul>{% for post in site.publications %}
+  {% endfor %}</ul>
   
 ## Talks
 
