@@ -37,7 +37,7 @@ toc: true
 
 YouTube video embed below.
 
-<iframe src="https://onedrive.live.com/embed?cid=3EECCFCC86FDA472&resid=3EECCFCC86FDA472%21113&authkey=AGxb7BiaAtHV3yE" width="320" height="180" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/l2Of1-d5E5o?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
   
 ## Talks
