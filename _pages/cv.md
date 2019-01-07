@@ -37,8 +37,7 @@ toc: true
 
 YouTube video embed below.
 
-<iframe width="640" height="360" src="https://yangcas.github.io/_video/INFOCOM2019_CV.mp4" frameborder="0" allowfullscreen></iframe>
-
+{% include video id="XsxDH4HcOWA" provider="youtube" %}
   
 ## Talks
 
