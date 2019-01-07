@@ -7,7 +7,7 @@
 
 #remote_theme             : "mmistakes/minimal-mistakes"
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -18,7 +18,7 @@ description              : &description "A Ph.D candidcate at  Shanghai Institut
 url                      : https://yangcas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"/minimal-mistakes" # the subpath of your site, e.g. "/blog"
 repository               : "yangcas/yangcas.github.io"
-teaser                   : /assets/images/500x300.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : #/assets/images/500x300.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
