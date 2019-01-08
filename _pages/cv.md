@@ -7,11 +7,11 @@ toc: true
 
 ## Education
 
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Microelectronics, Anhui University, Hefei, China, 2012
+* M.S. in Software Engineering, Beihang University, Beijing, China, 2016
+* Ph.D in Communication and Information System, University of Chinese Academy of Sciences, 2019 (expected)
 
-## Work experience
+## Experiences
 
 * Summer 2015: Research Assistant
   * Github University
@@ -24,6 +24,9 @@ toc: true
   * Supervisor: Professor Hub
   
 ## Skills
+
+
+
 
 * Skill 1
 * Skill 2
