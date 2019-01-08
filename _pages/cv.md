@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "About me"
-toc_sticky: true
 toc: true
 ---
 
