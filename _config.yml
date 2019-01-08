@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yang Liu"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yang Liu" # &name is a YAML anchor which can be *referenced later
 description              : &description "A Ph.D candidate at Chinese Academy of Sciences(CAS) focusing on mobile sensing and computing."
