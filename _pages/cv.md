@@ -36,11 +36,9 @@ toc: true
 
 ## Publications
 
-{% include video id="GcR-4sVL_1o" provider="youtube" %}
 
-  <ul>{% for post in site.publications %}
-  {% endfor %}</ul>
-  
+<iframe width="640" height="360" src="https://youtu.be/GcR-4sVL_1o" frameborder="0" allowfullscreen></iframe>
+
 ## Talks
 
   <ul>{% for post in site.talks %}
