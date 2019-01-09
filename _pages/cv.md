@@ -3,6 +3,8 @@ permalink: /
 title: "About me"
 toc: true
 ---
+My name is Yang Liu, a final-year PhD candidate A final-year Ph.D candidate in Communication and Information System at Chinese Academy of Sciences(CAS). My advisor is professor [Yang Yang](http://sist.shanghaitech.edu.cn/sist_en/2018/1227/c3846a38413/page.htm). 
+My project involves mobile interaction, embedded system, wireless localization. Currently, my work focuses on novel mobile interaction technologies using wireless signals, especially acoustic signals. Recently, I have designed and developed an acoustic based localization and tracking prototype system using an android smartphone and commercial speakers, which could provide fine-grained mobile interaction in 2D and 3D space, and could detect small and slow movement (e.g. human breathing). During the experience of testing and debugging, I not only consolidated knowledge, but also discovered some non-intuitive phenomena, which may bring creative ideas. I’m highly self-motivated, because I hope that the knowledge that I learned could help me to bring novel ideas into real-world applications. 
 
 ## Education
 
@@ -10,17 +12,7 @@ toc: true
 * M.S. in Software Engineering, Beihang University, Beijing, China, 2016
 * Ph.D in Communication and Information System, University of Chinese Academy of Sciences, 2019 (expected)
 
-## Experiences
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 ## Skills
 
@@ -34,21 +26,79 @@ toc: true
   * Sub-skill 2.3
 * Skill 3
 
+## Projects
+
+### Acoustic motion tracking
+Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
+
+<div class="iframe_page">
+<iframe id="framePage" src="https://www.youtube.com/embed/GcR-4sVL_1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
+
+### Acoustic motion tracking
+Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
+
+<div class="iframe_page">
+<iframe id="framePage" src="https://www.youtube.com/embed/GcR-4sVL_1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
+
+### Acoustic motion tracking
+Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
+
+<div class="iframe_page">
+<iframe id="framePage" src="https://www.youtube.com/embed/GcR-4sVL_1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
+
 ## Publications
 
-
-<iframe width="640" height="360" src="https://youtu.be/GcR-4sVL_1o" frameborder="0" allowfullscreen></iframe>
-
-## Talks
-
-  <ul>{% for post in site.talks %}
-  {% endfor %}</ul>
+1.	**Yang Liu**, Wuxiong Zhang, Yang Yang, Weidong Fang, Fei Qin, Xuewu Dai, PAMT: Phase-based Acoustic Motion Tracking in Multipath Fading Environments. IEEE Conference on Computer Communications (INFOCOM’19) (acceptance rate: 19.7%).
+2.	**Yang Liu**, Wuxiong Zhang, Yang Yang, Weidong Fang, Fei Qin, and Xuewu Dai, “RAMTEL: Robust Acoustic Motion Tracking using Extreme Learning Machine for Smart Cities”, IEEE Internet of Things Journal (IF 5.863, to be appeared).
+3.	**Yang Liu**, Yang Yang, Weidong Fang, Wuxiong Zhang, Demo: Phase-based Acoustic Localization and Motion Tracking for Mobile Interaction. ACM multimedia conference (ACM MM’18).
+4.	**Yang Liu**, Yubing Wang, Weiwei Gao, Wuxiong Zhang, Yang Yang. A Novel Low-Cost Real-Time Power Measurement Platform for LoWPAN IoT Devices. Mobile Information Systems. 2017. 1-14.
+5.	Weidong Fang, Wuxiong Zhang, Yang Yang, **Yang Liu**, Wei Chen. A resilient trust management scheme for defending against reputation time-varying attacks based on BETA distribution. Science China Information Sciences, 2017, 60(4):040305.
   
-## Teaching
+## Work Experience
 
-  <ul>{% for post in site.teaching %}
-  {% endfor %}</ul>
+### Project Intern at Topelec Tech, Co. Ltd, Beijing,China (February 2014- August 2014)
+
+I have finished studies and applications about network protocol in practical projects, such as uIP, Zigbee 2007/pro and 900M RFID.
+
+### Intern at EDA Laboratory of Beihang University, Beijing, China (June 2013- September 2013)
+
+
+### Summer student at school’s innovation Laboratory of Anhui University (July 2009- August 2009)
+I had the opportunity to work at the school’s innovation lab for National Undergraduate Electronic Design Contest.
+
+
+### Research at Key Laboratory of Wireless Sensor Network and Communication, CAS, China (October 2014- September 2016)
+
+### Research at Key Laboratory of Wireless Sensor Network and Communication, CAS, China (October 2014- September 2016)
+
+I have designed and developed an acoustic based localization and tracking prototype system using an android smartphone and commercial speakers. The system could provide fine-grained mobile interaction in 2D and 3D space with high sensitivity.
+
+I have designed and developed a prototype system for detecting gas leakage based on the acoustic spectrum change caused by gas leakage, which will be deployed to some natural gas wells of Shanghai as a pilot project.
+
+I have designed and developed a prototype system for intelligent pillow to avoid snoring using an embedded system, which could adjust the height of the pillow automatically according to the snore it heard. 
+
+By migrating and modifying the Linux kernel module (ath9k) of OpenWrt, I have developed OpenWrt based wireless router, which could get Channel State Information (CSI) of WiFi signal between commercial router and smartphones.
+
+I have developed graphical user interfaces (GUIs) using Microsoft Foundation Classes (MFC) in Windows, GIMP Toolkit (GTK+) in Linux, and GUI development environment (GUIDE) in Matlab.
+
   
-## Service and leadership
+## Experiences
 
-* Currently signed in to 43 different slack teams
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
