@@ -35,7 +35,18 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 
 
 
+<table><tbody>
+<tr>
+<th><img src="https://raw.githubusercontent.com/yangcas/yangcas.github.io/master/_publications/IoT2019/Multipath_fading.png" width="500" /></th>
+<th>  <img src="https://raw.githubusercontent.com/yangcas/yangcas.github.io/master/_publications/IoT2019/MDV.gif" width="500" /> </th>
+</tr>
 
+<tr>
+<td><font color="Hotpink">此处实现方法利用 CSDN-markdown 内嵌 html 语言的优势</font></td>
+<td><font color="Hotpink">Hotpink</font></td>
+</tr>
+</tbody>
+</table>
 
 
 <div class="iframe_page">
