@@ -37,8 +37,8 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 
 <table><tbody>
 <tr>
-<th><img src="https://raw.githubusercontent.com/yangcas/yangcas.github.io/master/_publications/IoT2019/Multipath_fading.png" width="500" /></th>
-<th>  <img src="https://raw.githubusercontent.com/yangcas/yangcas.github.io/master/_publications/IoT2019/MDV.gif" width="500" /> </th>
+<th><img src="/_publications/IoT2019/Multipath_fading.png" width="500" /></th>
+<th>  <img src="/_publications/IoT2019/MDV.gif" width="500" /> </th>
 </tr>
 
 <tr>
