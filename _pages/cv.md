@@ -3,8 +3,8 @@ permalink: /
 title: "About me"
 toc: true
 ---
-My name is Yang Liu, a final-year PhD candidate A final-year Ph.D candidate in Communication and Information System at Chinese Academy of Sciences(CAS). My advisor is professor [Yang Yang](http://sist.shanghaitech.edu.cn/sist_en/2018/1227/c3846a38413/page.htm). 
-My project involves mobile interaction, embedded system, wireless localization. Currently, my work focuses on novel mobile interaction technologies using wireless signals, especially acoustic signals. Recently, I have designed and developed an acoustic based localization and tracking prototype system using an android smartphone and commercial speakers, which could provide fine-grained mobile interaction in 2D and 3D space, and could detect small and slow movement (e.g. human breathing). During the experience of testing and debugging, I not only consolidated knowledge, but also discovered some non-intuitive phenomena, which may bring creative ideas. I’m highly self-motivated, because I hope that the knowledge that I learned could help me to bring novel ideas into real-world applications. 
+My name is Yang Liu, a final-year PhD candidate in Communication and Information System at Chinese Academy of Sciences(CAS). My advisor is professor [Yang Yang](http://sist.shanghaitech.edu.cn/sist_en/2018/1227/c3846a38413/page.htm). 
+My project involves mobile interaction, embedded system, wireless localization. Currently, my work focuses on novel mobile interaction technologies using wireless signals, especially acoustic signals. Recently, I have designed and developed an acoustic based localization and tracking prototype system using an android smartphone and some commercial speakers, which could provide fine-grained motion tracking in 2D and 3D space, and could detect small and slow movement (e.g. human breathing). I’m highly self-motivated, because I hope that the knowledge that I learned could help me to bring inventive ideas into real-world applications. 
 
 ## Education
 
@@ -14,17 +14,7 @@ My project involves mobile interaction, embedded system, wireless localization. 
 
 
   
-## Skills
 
-
-
-
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 ## Projects
 
@@ -44,6 +34,9 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 <iframe id="framePage" src="https://www.youtube.com/embed/GcR-4sVL_1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
+
+
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
 
 ### Acoustic motion tracking
@@ -55,6 +48,20 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
 
+## Skills
+
+
+
+
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+
+
+
 ## Publications
 
 1.	**Yang Liu**, Wuxiong Zhang, Yang Yang, Weidong Fang, Fei Qin, Xuewu Dai, PAMT: Phase-based Acoustic Motion Tracking in Multipath Fading Environments. IEEE Conference on Computer Communications (INFOCOM’19) (acceptance rate: 19.7%).
@@ -65,40 +72,27 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
   
 ## Work Experience
 
-### Project Intern at Topelec Tech, Co. Ltd, Beijing,China (February 2014- August 2014)
-
-I have finished studies and applications about network protocol in practical projects, such as uIP, Zigbee 2007/pro and 900M RFID.
-
-### Intern at EDA Laboratory of Beihang University, Beijing, China (June 2013- September 2013)
-
-
-### Summer student at school’s innovation Laboratory of Anhui University (July 2009- August 2009)
-I had the opportunity to work at the school’s innovation lab for National Undergraduate Electronic Design Contest.
-
-
-### Research at Key Laboratory of Wireless Sensor Network and Communication, CAS, China (October 2014- September 2016)
-
-### Research at Key Laboratory of Wireless Sensor Network and Communication, CAS, China (October 2014- September 2016)
+### Research at Shanghai Institute of Microsystem and Information Technology (SIMIT), Chinese Academy of Sciences (CAS), China (Sept. 2016- Present)
 
 I have designed and developed an acoustic based localization and tracking prototype system using an android smartphone and commercial speakers. The system could provide fine-grained mobile interaction in 2D and 3D space with high sensitivity.
 
-I have designed and developed a prototype system for detecting gas leakage based on the acoustic spectrum change caused by gas leakage, which will be deployed to some natural gas wells of Shanghai as a pilot project.
+I have designed and developed a prototype system for detecting gas leakage based on the distinctive acoustic spectrum change caused by gas leakage, which will be deployed to some natural gas wells of Shanghai as a pilot project.
+
+### Research at Shanghai Research Center for Wireless Communications, Shanghai, China (Oct. 2014- Sept. 2016)
 
 I have designed and developed a prototype system for intelligent pillow to avoid snoring using an embedded system, which could adjust the height of the pillow automatically according to the snore it heard. 
 
 By migrating and modifying the Linux kernel module (ath9k) of OpenWrt, I have developed OpenWrt based wireless router, which could get Channel State Information (CSI) of WiFi signal between commercial router and smartphones.
 
-I have developed graphical user interfaces (GUIs) using Microsoft Foundation Classes (MFC) in Windows, GIMP Toolkit (GTK+) in Linux, and GUI development environment (GUIDE) in Matlab.
+### Project Intern at Topelec Tech, Co. Ltd, Beijing,China (Feb. 2014- Aug. 2014)
 
-  
-## Experiences
+I have finished studies and applications about network protocol in practical projects, such as uIP, Zigbee 2007/pro and 900M RFID.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### Teaching Assistant (Sept. 2013- Jan. 2014)
+As a teaching assistant, I assisted our teacher to address students' questions and gave a course about digital circuit design experiment for undergraduates.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### Intern at EDA Laboratory of Beihang University, Beijing, China (June 2013- Sept. 2013)
+Before the start of my graduate studies, Professor Jinming Dong gave me an opportunity to join the EDA laboratory. 
+
+### Summer student at school’s innovation Laboratory of Anhui University (July 2009- Aug. 2009)
+I had the opportunity to work at the school’s innovation lab for National Undergraduate Electronic Design Contest.
