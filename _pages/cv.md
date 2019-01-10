@@ -34,10 +34,7 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 
 
 
-<figure class="half">
-    <img src="https://raw.githubusercontent.com/yangcas/yangcas.github.io/master/_video/MER.gif" width="500" hegiht="500" 
-	<img src="https://raw.githubusercontent.com/yangcas/yangcas.github.io/master/_video/MER.gif" width="500" hegiht="500" 
-</figure>
+
 
 
 
