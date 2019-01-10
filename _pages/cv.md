@@ -3,6 +3,9 @@ permalink: /
 title: "About me"
 toc: true
 ---
+
+
+
 My name is Yang Liu, a final-year PhD candidate in Communication and Information System at Chinese Academy of Sciences(CAS). My advisor is professor [Yang Yang](http://sist.shanghaitech.edu.cn/sist_en/2018/1227/c3846a38413/page.htm). 
 My project involves mobile interaction, embedded system, wireless localization. Currently, my work focuses on novel mobile interaction technologies using wireless signals, especially acoustic signals. Recently, I have designed and developed an acoustic based localization and tracking prototype system using an android smartphone and some commercial speakers, which could provide fine-grained motion tracking in 2D and 3D space, and could detect small and slow movement (e.g. human breathing). I’m highly self-motivated, because I hope that the knowledge that I learned could help me to bring inventive ideas into real-world applications. 
 
@@ -22,7 +25,9 @@ My project involves mobile interaction, embedded system, wireless localization. 
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
 
 
-<iframe height="380" width="600" src="https://www.youtube.com/embed/GcR-4sVL_1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="30%" heigth="30%" src="https://www.youtube.com/embed/GcR-4sVL_1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
 
@@ -38,8 +43,8 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 </tr>
 
 <tr>
-<td>此处实现方法利用 CSDN-markdown 内嵌 html 语言的优势</td>
-<td>Hotpink</td>
+<td><Figurenum>1312</Figurenum></td>
+<td><Figurenum>222</Figurenum></td>
 </tr>
 </table>
 
@@ -48,16 +53,10 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 
 
 
-<iframe height="380" width="600" src="https://www.youtube.com/embed/GcR-4sVL_1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
 
 ### Acoustic motion tracking
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
-
-
-<iframe height="380" width="600" src="https://www.youtube.com/embed/GcR-4sVL_1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
