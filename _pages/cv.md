@@ -33,19 +33,19 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 
 
 
-
-<table style="text-align: center swidth: 60%; margin:auto"><tbody>
+<div class="table_mid">
+<table style="text-align:center">
 <tr>
 <th><img src="/assets/paper_img/IoT2019/Multipath_fading.png" width="500" /></th>
 <th>  <img src="/assets/paper_img/IoT2019/MDV.gif" width="500" /> </th>
 </tr>
 
 <tr>
-<td><font color="Hotpink">此处实现方法利用 CSDN-markdown 内嵌 html 语言的优势</font></td>
-<td><font color="Hotpink">Hotpink</font></td>
+<td>此处实现方法利用 CSDN-markdown 内嵌 html 语言的优势</td>
+<td>Hotpink</td>
 </tr>
-</tbody>
 </table>
+</div>
 
 
 <div class="iframe_page">
