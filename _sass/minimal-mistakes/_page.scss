@@ -570,15 +570,14 @@ Figurenum::before {
 	padding-top:30px;
 	height:0;
 	overflow:hidden;
-	max-width:500px;
 }
 
 .video-container iframe, .video-container object, .video-container embed {
 	position:absolute;
 	top:0;
 	left:0;
-	width:100%;
-	height:100%;
+	width:30%;
+	height:30%;
 
 }
 
