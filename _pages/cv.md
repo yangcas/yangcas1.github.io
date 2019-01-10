@@ -18,7 +18,7 @@ My project involves mobile interaction, embedded system, wireless localization. 
 
 ## Projects
 
-### Acoustic motion tracking
+### Phase based acoustic ranging and tracking
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
 
 <div class="iframe_page">
@@ -27,14 +27,23 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
 
-### Acoustic motion tracking
+### Phase based acoustic ranging and tracking
+
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
+
+
+
+
+<figure class="half">
+    <img src="https://raw.githubusercontent.com/yangcas/yangcas.github.io/master/_video/MER.gif" width="500" hegiht="500" 
+	<img src="https://raw.githubusercontent.com/yangcas/yangcas.github.io/master/_video/MER.gif" width="500" hegiht="500" 
+</figure>
+
+
 
 <div class="iframe_page">
 <iframe id="framePage" src="https://www.youtube.com/embed/GcR-4sVL_1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-
 
 
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
