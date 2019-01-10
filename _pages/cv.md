@@ -34,11 +34,10 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 
 
 
-
-<table><tbody>
+<table style="text-align: center swidth: 60%; margin:auto"><tbody>
 <tr>
-<th><img src="/_publications/IoT2019/Multipath_fading.png" width="500" /></th>
-<th>  <img src="/_publications/IoT2019/MDV.gif" width="500" /> </th>
+<th><img src="/assets/paper_img/IoT2019/Multipath_fading.png" width="500" /></th>
+<th>  <img src="/assets/paper_img/IoT2019/MDV.gif" width="500" /> </th>
 </tr>
 
 <tr>
