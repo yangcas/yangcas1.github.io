@@ -22,7 +22,7 @@ My project involves mobile interaction, embedded system, wireless localization. 
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
 
 
-<iframe height="400" width="600" src="https://www.youtube.com/embed/GcR-4sVL_1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="380" width="600" src="https://www.youtube.com/embed/GcR-4sVL_1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
 
@@ -33,8 +33,8 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 
 <table style="text-align:center">
 <tr>
-<th><img src="/assets/paper_img/IoT2019/Multipath_fading.png" width="620" /></th>
-<th>  <img src="/assets/paper_img/IoT2019/MDV.gif" width="350" /> </th>
+<th><img src="/assets/paper_img/IoT2019/Multipath_fading.png" width="600" /></th>
+<th>  <img src="/assets/paper_img/IoT2019/MDV.gif" width="330" /> </th>
 </tr>
 
 <tr>
@@ -48,7 +48,7 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 
 
 
-<iframe height="400" width="600" src="https://www.youtube.com/embed/GcR-4sVL_1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="380" width="600" src="https://www.youtube.com/embed/GcR-4sVL_1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
@@ -57,7 +57,7 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
 
 
-<iframe height="400" width="600" src="https://www.youtube.com/embed/GcR-4sVL_1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="380" width="600" src="https://www.youtube.com/embed/GcR-4sVL_1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
