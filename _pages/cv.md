@@ -12,7 +12,7 @@ My project involves mobile interaction, embedded system, wireless localization. 
 
 <h2 id="projects"><i class="ios ion-ios-lightbulb fa-lg"></i> Projects</h2>
 
-### Fine-grained Acoustic Phase based Ranging
+### Fine-grained Acoustic Phase based Ranging (ACM MM'18 demo paper)
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
 
 <table style="text-align:center" class="center">
@@ -35,7 +35,7 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 <iframe src="https://www.youtube.com/embed/GcR-4sVL_1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div> 
 
-### PAMT: Phase-based Acoustic Motion Tracking in Multipath Fading Environments
+### PAMT: Phase-based Acoustic Motion Tracking in Multipath Fading Environments (INFOCOM'19)
 
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
 
