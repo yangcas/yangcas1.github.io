@@ -15,11 +15,11 @@ My project involves mobile interaction, embedded system, wireless localization. 
 ### Fine grained acoustic phase based ranging
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
 
-<!--
+
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/GcR-4sVL_1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div> 
--->
+
 
 
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
@@ -40,40 +40,13 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 </tr>
 </table>
 
+Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
 
-<table style="text-align:center" class="center">
-<tr>
-<th><img src="/assets/paper_img/IoT2019/ranging.gif" width="400" /></th>
-<th>  <img src="/assets/paper_img/IoT2019/tracking.gif" width="400" /> </th>
-</tr>
-<tr>
-<td><Figurenum>1312</Figurenum></td>
-<td><Figurenum>222</Figurenum></td>
-</tr>
-</table>
-
-<table style="text-align:center" class="center">
-<tr>
-<th><img src="/assets/paper_img/MM2018/phase-based-ranging.gif" width="400" /></th>
-<th>  <img src="/assets/paper_img/MM2018/breathing.gif" width="300" /> </th>
-</tr>
-<tr>
-<td><Figurenum>1312</Figurenum></td>
-<td><Figurenum>222</Figurenum></td>
-</tr>
-</table>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/GcR-4sVL_1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div> 
 
 
-<table style="text-align:center" class="center">
-<tr>
-<th><img src="/assets/paper_img/Ptone/hardware.png" width="400" /></th>
-<th>  <img src="/assets/paper_img/Ptone/wave.png" width="300" /> </th>
-</tr>
-<tr>
-<td><Figurenum>1312</Figurenum></td>
-<td><Figurenum>222</Figurenum></td>
-</tr>
-</table>
 
 
 
@@ -87,8 +60,20 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 ###  Low-Cost Real-Time Power Measurement and Abnormal Diagnosis
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
 
+<table style="text-align:center" class="center">
+<tr>
+<th><img src="/assets/paper_img/PTone/hardware.png" width="400" /></th>
+<th>  <img src="/assets/paper_img/PTone/wave.png" width="300" /> </th>
+</tr>
+<tr>
+<td><Figurenum>1312</Figurenum></td>
+<td><Figurenum>222</Figurenum></td>
+</tr>
+</table>
 
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
+
+
 
 <h2 id="skills"><i class="ios ion-ios-gear fa-lg"></i> Skills</h2>
 
