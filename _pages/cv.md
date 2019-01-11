@@ -17,8 +17,8 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 
 <table style="text-align:center" class="center">
 <tr>
-<th><img src="/assets/paper_img/MM2018/phase-based-ranging.gif" width="300" /></th>
-<th>  <img src="/assets/paper_img/MM2018/breathing.gif" width="300" /> </th>
+<th><img src="/assets/paper_img/MM2018/phase-based-ranging.gif" width="500" /></th>
+<th>  <img src="/assets/paper_img/MM2018/breathing.gif" width="400" /> </th>
 </tr>
 <tr>
 <td><Figurenum>1312</Figurenum></td>
@@ -69,8 +69,8 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 
 <table style="text-align:center" class="center">
 <tr>
-<th><img src="/assets/paper_img/PTone/hardware.png" width="350" /></th>
-<th>  <img src="/assets/paper_img/PTone/wave.png" width="300" /> </th>
+<th><img src="/assets/paper_img/PTone/hardware.png" width="460" /></th>
+<th>  <img src="/assets/paper_img/PTone/wave.png" width="400" /> </th>
 </tr>
 <tr>
 <td><Figurenum>1312</Figurenum></td>
