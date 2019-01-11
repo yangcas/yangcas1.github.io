@@ -12,13 +12,13 @@ My project involves mobile interaction, embedded system, wireless localization. 
 
 <h2 id="projects"><i class="ios ion-ios-lightbulb fa-lg"></i> Projects</h2>
 
-### Fine grained acoustic phase based ranging
+### Fine-grained Acoustic Phase based Ranging
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
 
 <table style="text-align:center" class="center">
 <tr>
 <th><img src="/assets/paper_img/MM2018/phase-based-ranging.gif" width="500" /></th>
-<th>  <img src="/assets/paper_img/MM2018/breathing.png" width="400" /> </th>
+<th>  <img src="/assets/paper_img/MM2018/breathing.png" width="450" /> </th>
 </tr>
 <tr>
 <td><Figurenum>1312</Figurenum></td>
