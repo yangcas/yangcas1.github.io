@@ -17,8 +17,8 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 
 <table style="text-align:center" class="center">
 <tr>
-<th><img src="/assets/paper_img/MM2018/phase-based-ranging.gif" width="600" /></th>
-<th>  <img src="/assets/paper_img/MM2018/breathing.gif" width="290" /> </th>
+<th><img src="/assets/paper_img/MM2018/phase-based-ranging.gif" width="300" /></th>
+<th>  <img src="/assets/paper_img/MM2018/breathing.gif" width="300" /> </th>
 </tr>
 <tr>
 <td><Figurenum>1312</Figurenum></td>
@@ -27,11 +27,13 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 </table>
 
 
+
+
+Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
+
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/GcR-4sVL_1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div> 
-
-Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
 
 ### PAMT: Phase-based Acoustic Motion Tracking in Multipath Fading Environments
 
@@ -51,22 +53,23 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
 
+
+
+
+Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
+Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
+
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/GcR-4sVL_1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div> 
 
-
-Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
-Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
-
-Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
-
 ###  Low-Cost Real-Time Power Measurement and Abnormal Diagnosis
+
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
 
 <table style="text-align:center" class="center">
 <tr>
-<th><img src="/assets/paper_img/PTone/hardware.png" width="400" /></th>
+<th><img src="/assets/paper_img/PTone/hardware.png" width="350" /></th>
 <th>  <img src="/assets/paper_img/PTone/wave.png" width="300" /> </th>
 </tr>
 <tr>
