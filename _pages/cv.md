@@ -15,12 +15,21 @@ My project involves mobile interaction, embedded system, wireless localization. 
 ### Fine grained acoustic phase based ranging
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
 
+<table style="text-align:center" class="center">
+<tr>
+<th><img src="/assets/paper_img/MM2018/phase-based-ranging.gif" width="600" /></th>
+<th>  <img src="/assets/paper_img/MM2018/breathing.gif" width="290" /> </th>
+</tr>
+<tr>
+<td><Figurenum>1312</Figurenum></td>
+<td><Figurenum>222</Figurenum></td>
+</tr>
+</table>
+
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/GcR-4sVL_1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div> 
-
-
 
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
 
@@ -47,13 +56,8 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 </div> 
 
 
-
-
-
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
-
-
 
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
 
