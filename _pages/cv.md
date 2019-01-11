@@ -8,15 +8,18 @@ My name is Yang Liu, a final-year PhD candidate in Communication and Information
 I received the Bachelor degree from Anhui University, China, in 2012, and Master degree from Beihang University, China, in 2016.
 My project involves mobile interaction, embedded system, wireless localization. Currently, my work focuses on novel mobile interaction technologies using wireless signals, especially acoustic signals. Recently, I have designed and developed an acoustic based localization and tracking prototype system using an android smartphone and some commercial speakers, which could provide fine-grained motion tracking in 2D and 3D space, and could detect small and slow movement (e.g. human breathing). I’m highly self-motivated, because I hope that the knowledge that I learned could help me to bring inventive ideas into real-world applications. 
 
-## Projects
+
+
+<h2 id="projects"><i class="ios ion-ios-lightbulb fa-lg"></i> Projects</h2>
 
 ### Fine grained acoustic phase based ranging
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
 
-
+<!--
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/GcR-4sVL_1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+</div> 
+-->
 
 
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
@@ -26,7 +29,7 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
 
 
-<table style="text-align:center">
+<table style="text-align:center" class="center">
 <tr>
 <th><img src="/assets/paper_img/IoT2019/Multipath_fading.png" width="600" /></th>
 <th>  <img src="/assets/paper_img/IoT2019/MDV.gif" width="290" /> </th>
@@ -37,6 +40,43 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 </tr>
 </table>
 
+
+<table style="text-align:center" class="center">
+<tr>
+<th><img src="/assets/paper_img/IoT2019/ranging.gif" width="400" /></th>
+<th>  <img src="/assets/paper_img/IoT2019/tracking.gif" width="400" /> </th>
+</tr>
+<tr>
+<td><Figurenum>1312</Figurenum></td>
+<td><Figurenum>222</Figurenum></td>
+</tr>
+</table>
+
+<table style="text-align:center" class="center">
+<tr>
+<th><img src="/assets/paper_img/MM2018/phase-based-ranging.gif" width="400" /></th>
+<th>  <img src="/assets/paper_img/MM2018/breathing.gif" width="300" /> </th>
+</tr>
+<tr>
+<td><Figurenum>1312</Figurenum></td>
+<td><Figurenum>222</Figurenum></td>
+</tr>
+</table>
+
+
+<table style="text-align:center" class="center">
+<tr>
+<th><img src="/assets/paper_img/Ptone/hardware.png" width="400" /></th>
+<th>  <img src="/assets/paper_img/Ptone/wave.png" width="300" /> </th>
+</tr>
+<tr>
+<td><Figurenum>1312</Figurenum></td>
+<td><Figurenum>222</Figurenum></td>
+</tr>
+</table>
+
+
+
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
 
@@ -44,13 +84,13 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
 
-### Acoustic motion tracking
+###  Low-Cost Real-Time Power Measurement and Abnormal Diagnosis
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
 
 
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
 
-## Skills
+<h2 id="skills"><i class="ios ion-ios-gear fa-lg"></i> Skills</h2>
 
 
 
@@ -63,8 +103,7 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 * Skill 3
 
 
-
-## Publications
+<h2 id="publications"><i class="ios ion-ios-book"></i> Publications</h2>
 
 1. **Yang Liu**, Wuxiong Zhang, Yang Yang, Weidong Fang, Fei Qin, and Xuewu Dai, “RAMTEL: Robust Acoustic Motion Tracking using Extreme Learning Machine for Smart Cities”, IEEE Internet of Things Journal (IF 5.863, to be appeared).
 2.	**Yang Liu**, Wuxiong Zhang, Yang Yang, Weidong Fang, Fei Qin, Xuewu Dai, PAMT: Phase-based Acoustic Motion Tracking in Multipath Fading Environments. IEEE Conference on Computer Communications (INFOCOM’19) (acceptance rate: 19.7%).
@@ -72,7 +111,7 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 4.	**Yang Liu**, Yubing Wang, Weiwei Gao, Wuxiong Zhang, Yang Yang. A Novel Low-Cost Real-Time Power Measurement Platform for LoWPAN IoT Devices. Mobile Information Systems. 2017. 1-14.
 5.	Weidong Fang, Wuxiong Zhang, Yang Yang, **Yang Liu**, Wei Chen. A resilient trust management scheme for defending against reputation time-varying attacks based on BETA distribution. Science China Information Sciences, 2017, 60(4):040305.
   
-## Work Experience
+<h2 id="work-experience"><i class="ios ion-ios-filing fa-lg"></i> Work Experience</h2>
 
 ### Research at Shanghai Institute of Microsystem and Information Technology (SIMIT), Chinese Academy of Sciences (CAS), China (Sept. 2016- Present)
 
