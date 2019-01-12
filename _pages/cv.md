@@ -97,7 +97,7 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 
 <h2 id="publications"><i class="ion-ios-book"></i> Publications</h2>
 
-1. **Yang Liu**, Wuxiong Zhang, Yang Yang, Weidong Fang, Fei Qin, and Xuewu Dai, “RAMTEL: Robust Acoustic Motion Tracking using Extreme Learning Machine for Smart Cities”, IEEE Internet of Things Journal (IF 5.863, to be appeared).
+1. **Yang Liu**, Wuxiong Zhang, Yang Yang, Weidong Fang, Fei Qin, and Xuewu Dai, “RAMTEL: Robust Acoustic Motion Tracking using Extreme Learning Machine for Smart Cities”, IEEE Internet of Things Journal (IF 5.863, Under Review).
 2.	**Yang Liu**, Wuxiong Zhang, Yang Yang, Weidong Fang, Fei Qin, Xuewu Dai, PAMT: Phase-based Acoustic Motion Tracking in Multipath Fading Environments. IEEE Conference on Computer Communications (INFOCOM’19) (acceptance rate: 19.7%).
 3.	**Yang Liu**, Yang Yang, Weidong Fang, Wuxiong Zhang, Demo: Phase-based Acoustic Localization and Motion Tracking for Mobile Interaction. ACM multimedia conference (ACM MM’18).
 4.	**Yang Liu**, Yubing Wang, Weiwei Gao, Wuxiong Zhang, Yang Yang. A Novel Low-Cost Real-Time Power Measurement Platform for LoWPAN IoT Devices. Mobile Information Systems. 2017. 1-14.
