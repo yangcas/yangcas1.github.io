@@ -69,8 +69,8 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 
 <table style="text-align:center" class="center">
 <tr>
-<th><img src="/assets/paper_img/PTone/hardware.png" width="460" /></th>
-<th>  <img src="/assets/paper_img/PTone/wave.png" width="400" /> </th>
+<th><img src="/assets/paper_img/PTone/hardware.png" width="360" /></th>
+<th>  <img src="/assets/paper_img/PTone/wave.png" width="300" /> </th>
 </tr>
 <tr>
 <td><Figurenum>1312</Figurenum></td>
