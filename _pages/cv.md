@@ -10,9 +10,9 @@ My project involves mobile interaction, embedded system, wireless localization. 
 
 
 
-<h2 id="projects"><i class="ios ion-ios-lightbulb fa-lg"></i> Projects</h2>
+<h2 id="projects"><i class="ion-ios-lightbulb"></i> Projects</h2>
 
-### Fine-grained Acoustic Phase based Ranging (ACM MM'18 demo paper)
+### Fine-grained Acoustic Phase based Ranging (ACM MM'18 demo)
 Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
 
 <table style="text-align:center" class="center">
@@ -82,7 +82,7 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 
 
 
-<h2 id="skills"><i class="ios ion-ios-gear fa-lg"></i> Skills</h2>
+<h2 id="skills"><i class="ion-ios-gear"></i> Skills</h2>
 
 
 
@@ -95,7 +95,7 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 * Skill 3
 
 
-<h2 id="publications"><i class="ios ion-ios-book"></i> Publications</h2>
+<h2 id="publications"><i class="ion-ios-book"></i> Publications</h2>
 
 1. **Yang Liu**, Wuxiong Zhang, Yang Yang, Weidong Fang, Fei Qin, and Xuewu Dai, “RAMTEL: Robust Acoustic Motion Tracking using Extreme Learning Machine for Smart Cities”, IEEE Internet of Things Journal (IF 5.863, to be appeared).
 2.	**Yang Liu**, Wuxiong Zhang, Yang Yang, Weidong Fang, Fei Qin, Xuewu Dai, PAMT: Phase-based Acoustic Motion Tracking in Multipath Fading Environments. IEEE Conference on Computer Communications (INFOCOM’19) (acceptance rate: 19.7%).
@@ -103,7 +103,7 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 4.	**Yang Liu**, Yubing Wang, Weiwei Gao, Wuxiong Zhang, Yang Yang. A Novel Low-Cost Real-Time Power Measurement Platform for LoWPAN IoT Devices. Mobile Information Systems. 2017. 1-14.
 5.	Weidong Fang, Wuxiong Zhang, Yang Yang, **Yang Liu**, Wei Chen. A resilient trust management scheme for defending against reputation time-varying attacks based on BETA distribution. Science China Information Sciences, 2017, 60(4):040305.
   
-<h2 id="work-experience"><i class="ios ion-ios-filing fa-lg"></i> Work Experience</h2>
+<h2 id="work-experience"><i class="ion-ios-filing"></i> Work Experience</h2>
 
 ### Research at Shanghai Institute of Microsystem and Information Technology (SIMIT), Chinese Academy of Sciences (CAS), China (Sept. 2016- Present)
 
