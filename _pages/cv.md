@@ -37,16 +37,19 @@ A prototype system of ranging and monitor breathing is implemented on a standard
 
 ### PAMT: Phase-based Acoustic Motion Tracking in Multipath Fading Environments (INFOCOM'19)
 
-In this project, we propose PAMT, which provides a fine grained and low cost mobile interaction method, which allows mobile users to interact with computer by using gesture input.
+We propose and implement a fine-grained and low cost acoustic mobile interaction method called *PAMT*,  which allows mobile users to interact with computer by using gesture interface in practical indoor environments.
+In this project, we first propose a phase based acoustic ranging method, which could measure accurate moving distance based on the phase change of received signals.
+However, in practical indoor environments, it's challenging to obtain accurate moving distance change based on the phase change due to the attenuation and reflection of acoustic signals.
+In order to address this challenging,  a new parameter
+called *Multipath* *Effect* *Ratio* *(MER)* is proposed to estimate and mitigate the effects of multipath fading on received signals at different frequencies, as shown in Fig.4.
+*MER*  is calculated based on a "constellation" like diagram which is different from the constellation diagram in wireless communication systems, since the base band signals in our diagram is the phase change caused by device movements.
+Traditional constellation diagram focuses on the information in the base band signals demodulated from carrier signals. 
+In contract, in our diagram, we use the feature extracted from the carrier signals to calculate *MER*, which can indicate the quality of received base band signals demodulated from carrier signals at different frequencies in real-time.
+Based on *MER*, *PAMT* is developed to calculate the moving distance based on the phase change of acoustic signals, and track corresponding motion by using multiple speakers.
+A prototype system of motion tracking is implemented on a standard Android smart phone. 
+Experiment results show the measurement errors are less than 2 mm and 4 mm in one-dimensional and two-dimensional scenarios, respectively.
 
-It is particularly challenging to mitigate severe fading effects in complex indoor environments. 
-Normal mobile devices using traditional methods can hardly distinguish Line-of-Sight(LoS) signals from Non-LoS (NLoS) signals with slightly
-different delays from multiple propagation paths.
-
-*Multipath* *Effect* *Ratio* (MER)
-
-Based on *MER*, a novel Robust Acoustic Motion Tracking (RAMTEL) method is developed to calculate the moving distance based on the phase change of acoustic signals, and track corresponding motion by using multiple speakers.
-
+An example is shown in Fig.3 and Fig.4.
 
 
 <table style="text-align:center" class="center">
@@ -55,21 +58,13 @@ Based on *MER*, a novel Robust Acoustic Motion Tracking (RAMTEL) method is devel
 <th>  <img src="/assets/paper_img/IoT2019/MDV.gif" width="290" /> </th>
 </tr>
 <tr>
-<td><Figurenum>The distance measured at different
-frequencies using *MECF*</Figurenum></td>
+<td><Figurenum>Moving distance measured at different
+frequencies</Figurenum></td>
 <td><Figurenum>A new feature to indicate the impact of multipath fading </Figurenum></td>
 </tr>
 </table>
 
-Duties included: Merging pull requests Duties included: Merging pull requests 
-Duties included: Merging pull requests Duties included: Merging pull requests 
-Duties included: Merging pull requests Duties included: Merging pull requests 
-Duties included: Merging pull requests Duties included: Merging pull requests 
-Duties included: Merging pull requests
-
-
-
-
+A brief introduction of this project is shown in the video below.
 
 
 <div class="video-container">
