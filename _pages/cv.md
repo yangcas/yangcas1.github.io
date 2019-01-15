@@ -19,7 +19,7 @@ mobile and video games, Virtual Reality (VR), Augmented Reality (AR), smart TVs.
 In recent years,  motion tracking methods based on dedicated hardware devices (e.g., infrared devices and cameras) are used successfully in many commercial products, such the Vive of HTC, and the 360 VR camera of Microsoft. However, these methods are either expensive or have large computation overhead, and not good enough for tracking a user’s gesture or posture in our daily life.
 Compared with the dedicated hardware devices, ubiquitous devices with reliable speakers and microphones can be developed to achieve cheap acoustic-based motion tracking, which is appropriate for low-power and low-cost IoT applications.
 Due to the limited sampling rate on mobile devices,  traditional Doppler effect based and FMCW based methods only provide coarse grained measurements (e.g., dozens of centimeters), and it's challenge to track the small motion of mobile user, such as walking, waving hand , and monitoring breath.
-In this demonstration, we propose a mobile devices (e.g., smartphones) ranging and motion tracking scheme, which can be developed on commercial mobile devices to provide fine-grained location and motion tracking for the devices.
+In this demonstration, we propose a acoustic based ranging and motion tracking scheme, which can be developed on commercial mobile devices (e.g., smartphones) to provide fine-grained location and motion tracking for the devices.
 Our key insight we can use the acoustic phase change at mobile devices to achieve accurate distance measurement, as shown in Fig. 1.
 A prototype system of ranging and monitor breathing is implemented on a standard Android smart phone, as shown in Fig. 2. Experiment results show that our method can achieve an impressive millimeter-level ranging accuracy, and can detect small and slow movements.
 
@@ -37,15 +37,15 @@ A prototype system of ranging and monitor breathing is implemented on a standard
 
 ### PAMT: Phase-based Acoustic Motion Tracking in Multipath Fading Environments (INFOCOM'19)
 
-We propose and implement a fine-grained and low cost acoustic mobile interaction method called *PAMT*,  which allows mobile users to interact with computer by using gesture interface in practical indoor environments.
-In this project, we first propose a phase based acoustic ranging method, which could measure accurate moving distance based on the phase change of received signals.
+We propose and implement a fine-grained and low cost acoustic mobile interaction method called PAMT,  which allows mobile users to interact with computer by using gesture interface in practical indoor environments.
+In this project, we first propose a phase based acoustic ranging method, which could measure accurate moving distance of mobile devices based on the phase change of received signals.
 However, in practical indoor environments, it's challenging to obtain accurate moving distance change based on the phase change due to the attenuation and reflection of acoustic signals.
-In order to address this challenging,  a new parameter
-called *Multipath* *Effect* *Ratio* *(MER)* is proposed to estimate and mitigate the effects of multipath fading on received signals at different frequencies, as shown in Fig.4.
-*MER*  is calculated based on a "constellation" like diagram which is different from the constellation diagram in wireless communication systems, since the base band signals in our diagram is the phase change caused by device movements.
+In order to address this challenging,  a new parameter called Multipath Effect Ratio (MER) is proposed to estimate and mitigate the effects of multipath fading on received signals at different frequencies, as shown in Fig.4.
+MER is calculated based on a "constellation" like diagram which is different from the traditional constellation diagram in wireless systems.
 Traditional constellation diagram focuses on the information in the base band signals demodulated from carrier signals. 
-In contract, in our diagram, we use the feature extracted from the carrier signals to calculate *MER*, which can indicate the quality of received base band signals demodulated from carrier signals at different frequencies in real-time.
-Based on *MER*, *PAMT* is developed to calculate the moving distance based on the phase change of acoustic signals, and track corresponding motion by using multiple speakers.
+In contract, the carrier signals are shown in our diagram.
+We use the feature extracted from the carrier signals to calculate MER,  which can indicate the quality of received base band signals (phase change caused by movements) demodulated from carrier signals at different frequencies in real-time.
+Based on MER, PAMT is developed to track mobile device's motion by using multiple speakers.
 A prototype system of motion tracking is implemented on a standard Android smart phone. 
 Experiment results show the measurement errors are less than 2 mm and 4 mm in one-dimensional and two-dimensional scenarios, respectively.
 
@@ -63,6 +63,8 @@ frequencies</Figurenum></td>
 <td><Figurenum>A new feature to indicate the impact of multipath fading </Figurenum></td>
 </tr>
 </table>
+
+这里讲图片上的内容。
 
 A brief introduction of this project is shown in the video below.
 
@@ -98,9 +100,10 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 
 
 
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
+* Android development
+* Microcomputer development
+* Signal processing
+  * acoustic
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
