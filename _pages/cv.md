@@ -41,8 +41,8 @@ We propose and implement a fine-grained and low cost acoustic mobile interaction
 In this project, we first propose a phase based acoustic ranging method, which could measure accurate moving distance of mobile devices based on the phase change of received signals.
 However, in practical indoor environments, it's challenging to obtain accurate moving distance change based on the phase change due to the attenuation and reflection of acoustic signals.
 In order to address this challenging,  a new parameter called Multipath Effect Ratio (MER) is proposed to estimate and mitigate the effects of multipath fading on received signals at different frequencies, as shown in Fig.4.
-MER is calculated based on a "constellation" like diagram which is different from the traditional constellation diagram in wireless systems.
-Traditional constellation diagram focuses on the information in the base band signals demodulated from carrier signals. 
+MER is calculated based on a "constellation" like diagram which is different from the traditional constellation diagram in wireless communication.
+Traditional constellation diagram focuses on the information in base band signals demodulated from carrier signals. 
 In contract, the carrier signals are shown in our diagram.
 We use the feature extracted from the carrier signals to calculate MER,  which can indicate the quality of received base band signals (phase change caused by movements) demodulated from carrier signals at different frequencies in real-time.
 Based on MER, PAMT is developed to track mobile device's motion by using multiple speakers.
@@ -50,7 +50,6 @@ A prototype system of motion tracking is implemented on a standard Android smart
 Experiment results show the measurement errors are less than 2 mm and 4 mm in one-dimensional and two-dimensional scenarios, respectively.
 
 An example is shown in Fig.3 and Fig.4.
-
 
 <table style="text-align:center" class="center">
 <tr>
@@ -64,7 +63,7 @@ frequencies</Figurenum></td>
 </tr>
 </table>
 
-这里讲图片上的内容。
+As shown in Fig.3, 
 
 A brief introduction of this project is shown in the video below.
 
