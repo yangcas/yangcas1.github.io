@@ -5,15 +5,24 @@ toc: true
 ---
 
 My name is Yang Liu, a final-year PhD candidate in Communication and Information System at Chinese Academy of Sciences(CAS). My advisor is professor [Yang Yang](http://sist.shanghaitech.edu.cn/sist_en/2018/1227/c3846a38413/page.htm). 
-I received the Bachelor degree from Anhui University, China, in 2012, and Master degree from Beihang University, China, in 2016.
+I received the Bachelor degree from Anhui University, China, in 2012, and Master degree from Beihang University, China, in 2016. 
 My project involves mobile interaction, embedded system, wireless localization. Currently, my work focuses on novel mobile interaction technologies using wireless signals, especially acoustic signals. Recently, I have designed and developed an acoustic based localization and tracking prototype system using an android smartphone and some commercial speakers, which could provide fine-grained motion tracking in 2D and 3D space, and could detect small and slow movement (e.g. human breathing). I’m highly self-motivated, because I hope that the knowledge that I learned could help me to bring inventive ideas into real-world applications. 
 
 
 
 <h2 id="projects"><i class="ion-ios-lightbulb"></i> Projects</h2>
 
-### Fine-grained Acoustic Phase based Ranging (ACM MM'18 demo)
-Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
+### Fine-grained Acoustic based Motion Tracking (ACM MM'18 demo)
+
+Motion tracking is attractive in mobile social networks nowadays for supporting various applications, e.g.,
+mobile and video games, Virtual Reality (VR), Augmented Reality (AR), smart TVs.
+In recent years,  motion tracking methods based on dedicated hardware devices (e.g., infrared devices and cameras) are used successfully in many commercial products, such the Vive of HTC, and the 360 VR camera of Microsoft. However, these methods are either expensive or have large computation overhead, and not good enough for tracking a user’s gesture or posture in our daily life.
+Compared with the dedicated hardware devices, ubiquitous devices with reliable speakers and microphones can be developed to achieve cheap acoustic-based motion tracking, which is appropriate for low-power and low-cost IoT applications.
+Due to the limited sampling rate on mobile devices,  traditional Doppler effect based and FMCW based methods only provide coarse grained measurements (e.g., dozens of centimeters), and it's challenge to track the small motion of mobile user, such as walking, waving hand , and monitoring breath.
+In this demonstration, we propose a mobile devices (e.g., smartphones) ranging and motion tracking scheme, which can be developed on commercial mobile devices to provide fine-grained location and motion tracking for the devices.
+Our key insight we can use the acoustic phase change at mobile devices to achieve accurate distance measurement, as shown in Fig. 1.
+A prototype system of ranging and monitor breathing is implemented on a standard Android smart phone, as shown in Fig. 2. Experiment results show that our method can achieve an impressive millimeter-level ranging accuracy, and can detect small and slow movements.
+
 
 <table style="text-align:center" class="center">
 <tr>
@@ -21,23 +30,23 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 <th>  <img src="/assets/paper_img/MM2018/breathing.png" width="450" /> </th>
 </tr>
 <tr>
-<td><Figurenum>1312</Figurenum></td>
-<td><Figurenum>222</Figurenum></td>
+<td><Figurenum>Phase based ranging</Figurenum></td>
+<td><Figurenum>Breath monitoring using acoustic signals</Figurenum></td>
 </tr>
 </table>
 
-
-
-
-Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
-
-<div class="video-container">
-<iframe src="https://www.youtube.com/embed/GcR-4sVL_1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div> 
-
 ### PAMT: Phase-based Acoustic Motion Tracking in Multipath Fading Environments (INFOCOM'19)
 
-Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
+In this project, we propose PAMT, which provides a fine grained and low cost mobile interaction method, which allows mobile users to interact with computer by using gesture input.
+
+It is particularly challenging to mitigate severe fading effects in complex indoor environments. 
+Normal mobile devices using traditional methods can hardly distinguish Line-of-Sight(LoS) signals from Non-LoS (NLoS) signals with slightly
+different delays from multiple propagation paths.
+
+*Multipath* *Effect* *Ratio* (MER)
+
+Based on *MER*, a novel Robust Acoustic Motion Tracking (RAMTEL) method is developed to calculate the moving distance based on the phase change of acoustic signals, and track corresponding motion by using multiple speakers.
+
 
 
 <table style="text-align:center" class="center">
@@ -46,22 +55,29 @@ Duties included: Merging pull requests Duties included: Merging pull requests Du
 <th>  <img src="/assets/paper_img/IoT2019/MDV.gif" width="290" /> </th>
 </tr>
 <tr>
-<td><Figurenum>1312</Figurenum></td>
-<td><Figurenum>222</Figurenum></td>
+<td><Figurenum>The distance measured at different
+frequencies using *MECF*</Figurenum></td>
+<td><Figurenum>A new feature to indicate the impact of multipath fading </Figurenum></td>
 </tr>
 </table>
 
-Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
+Duties included: Merging pull requests Duties included: Merging pull requests 
+Duties included: Merging pull requests Duties included: Merging pull requests 
+Duties included: Merging pull requests Duties included: Merging pull requests 
+Duties included: Merging pull requests Duties included: Merging pull requests 
+Duties included: Merging pull requests
 
 
 
 
-Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
-Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests Duties included: Merging pull requests
+
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/GcR-4sVL_1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div> 
+</div>  
+
+
+A complete demonstration can be found [HERE](https://youtu.be/GcR-4sVL_1o).
 
 ###  Low-Cost Real-Time Power Measurement and Abnormal Diagnosis
 
@@ -129,3 +145,5 @@ Before the start of my graduate studies, Professor Jinming Dong gave me an oppor
 
 ### Summer student at school’s innovation Laboratory of Anhui University (July 2009- Aug. 2009)
 I had the opportunity to work at the school’s innovation lab for National Undergraduate Electronic Design Contest.
+
+
