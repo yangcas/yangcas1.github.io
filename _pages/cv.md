@@ -36,7 +36,8 @@ A prototype system of ranging is implemented on a standard Android smart phone, 
 We propose and implement a fine-grained and low cost acoustic mobile interaction method called PAMT,  which allows mobile users to interact with computer by using gesture interface in practical indoor environments.
 In this project, we first propose a phase based acoustic ranging method, which could measure accurate moving distance of mobile devices based on the phase change of received signals.
 However, in practical indoor environments, it's challenging to obtain accurate moving distance change based on the phase change due to the attenuation and reflection of acoustic signals.
-In order to address this challenging,  a new parameter called Multipath Effect Ratio (MER) is proposed to estimate and mitigate the effects of multipath fading on received signals at different frequencies, as shown in Fig.4.
+In order to address this challenging,  a new parameter called Multipath Effect Ratio (MER) is proposed to estimate and mitigate the effects of multipath fading on received signals at different frequencies.
+MER is calculated from a "constellation" diagram, in which R<sub>β</sub> is orthogonal to R<sub>α</sub> , as shown in Fig.4.
 Based on MER, PAMT is developed to track mobile device's motion by using multiple speakers.
 A prototype system of motion tracking is implemented on a standard Android smart phone. 
 Experiment results show the measurement errors are less than 2 mm and 4 mm in one-dimensional and two-dimensional scenarios, respectively.
