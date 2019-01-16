@@ -105,13 +105,13 @@ Then, unique features are extracted from the power consumption, and used as a fi
 * Digital signal processing
   * Audio processing
   * Sonar, radar
-  * Array signals processing
+  * Array signal processing
   * Signal processing for wireless communication
   * Spectral density estimation
-* Embedded System development.
-  * Android development
-  * IoT devices using microcontrollers,such as STM32, MP430.
-  * Linux-based system, such as Ubuntu, OpenWrt.
+* Embedded system development.
+  * Android software development
+  * IoT software development.
+  * Linux-based system development, such as Ubuntu, OpenWrt.
   * FPGA development
 * Optimization theory, machine learning.
 
