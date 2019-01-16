@@ -109,7 +109,7 @@ Then, unique features are extracted from the power consumption, and used as a fi
   * Signal processing for wireless communication
   * Spectral density estimation
 * Embedded system development.
-  * Android software development
+  * Android application development
   * IoT software development.
   * Linux-based system development, such as Ubuntu, OpenWrt.
   * FPGA development
@@ -119,7 +119,7 @@ Then, unique features are extracted from the power consumption, and used as a fi
 <h2 id="publications"><i class="ion-ios-book"></i> Publications</h2>
 
 1. **Yang Liu**, Wuxiong Zhang, Yang Yang, Weidong Fang, Fei Qin, and Xuewu Dai, “RAMTEL: Robust Acoustic Motion Tracking using Extreme Learning Machine for Smart Cities”, IEEE Internet of Things Journal (IF 5.863, Under Review).
-2.	**Yang Liu**, Wuxiong Zhang, Yang Yang, Weidong Fang, Fei Qin, Xuewu Dai, PAMT: Phase-based Acoustic Motion Tracking in Multipath Fading Environments. IEEE Conference on Computer Communications (INFOCOM’19) (acceptance rate: 19.7%).
+2.	**Yang Liu**, Wuxiong Zhang, Yang Yang, Weidong Fang, Fei Qin, Xuewu Dai, PAMT: Phase-based Acoustic Motion Tracking in Multipath Fading Environments. IEEE Conference on Computer Communications (INFOCOM’19, acceptance rate: 19.7%).
 3.	**Yang Liu**, Yang Yang, Weidong Fang, Wuxiong Zhang, Demo: Phase-based Acoustic Localization and Motion Tracking for Mobile Interaction. ACM multimedia conference (ACM MM’18).
 4.	**Yang Liu**, Yubing Wang, Weiwei Gao, Wuxiong Zhang, Yang Yang. A Novel Low-Cost Real-Time Power Measurement Platform for LoWPAN IoT Devices. Mobile Information Systems. 2017. 1-14.
 5.	Weidong Fang, Wuxiong Zhang, Yang Yang, **Yang Liu**, Wei Chen. A resilient trust management scheme for defending against reputation time-varying attacks based on BETA distribution. Science China Information Sciences, 2017, 60(4):040305.
