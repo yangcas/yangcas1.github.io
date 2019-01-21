@@ -63,7 +63,7 @@ From the Fig.4, we can seen that the signal at 18.8 KHz is more close to the out
 
 
 
-A brief introduction of this project is shown in the video below.
+A brief introduction of this project is shown in the video below or can be found [HERE](https://1drv.ms/v/s!AnKk_YbMz-w-d1moCmWhda49_-A).
 
 
 <div class="video-container">
@@ -71,7 +71,7 @@ A brief introduction of this project is shown in the video below.
 </div>  
 
 
-A complete demonstration is shown in the video below or can be found [HERE](https://youtu.be/GcR-4sVL_1o).
+A complete demonstration is shown in the video below or can be found [HERE](https://1drv.ms/v/s!AnKk_YbMz-w-d-nGrF4VN8KJ40U).
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/GcR-4sVL_1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
