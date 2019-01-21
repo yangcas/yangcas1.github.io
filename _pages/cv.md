@@ -67,11 +67,15 @@ A brief introduction of this project is shown in the video below.
 
 
 <div class="video-container">
-<iframe src="https://www.youtube.com/embed/GcR-4sVL_1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/HTM1ShTAH2A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>  
 
 
-A complete demonstration can be found [HERE](https://youtu.be/GcR-4sVL_1o).
+A complete demonstration is shown in the video below or can be found [HERE](https://youtu.be/GcR-4sVL_1o).
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/GcR-4sVL_1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>  
 
 ###  Low-Cost Real-Time Power Measurement and Abnormal Diagnosis
 Engineers engaged in the development of battery power-supply device are facing huge pressure to reduce the consumption of power.
