@@ -6,7 +6,7 @@ toc: true
 
 My name is Yang Liu, a final-year PhD candidate in Communication and Information System at Chinese Academy of Sciences(CAS). My advisor is professor [Yang Yang](http://sist.shanghaitech.edu.cn/sist_en/2018/1227/c3846a38413/page.htm). 
 I received the Bachelor degree from Anhui University, China, in 2012, and Master degree from Beihang University, China, in 2016. 
-My project involves mobile interaction, embedded system, wireless localization. Currently, my work focuses on novel mobile interaction technologies using wireless signals, especially acoustic signals. Recently, I have designed and developed an acoustic based localization and tracking prototype system using an android smartphone and some commercial speakers, which could provide fine-grained motion tracking in 2D and 3D space, and could detect small and slow movement (e.g. human breathing). I’m highly self-motivated, because I hope that the knowledge that I learned could help me to bring inventive ideas into real-world applications. 
+My project involves mobile interaction, embedded system, wireless localization. Currently, my work focuses on novel mobile interaction technologies using wireless signals, especially acoustic signals. Recently, I have designed and developed an acoustic based localization and tracking prototype system using an android smartphone and some commercial speakers, which could provide fine-grained motion tracking, and could detect small and slow movement (e.g. human breathing). I’m highly self-motivated, because I hope that the knowledge that I learned could help me to bring inventive ideas into real-world applications. 
 
 
 
@@ -16,7 +16,7 @@ My project involves mobile interaction, embedded system, wireless localization. 
 In recent years,  motion tracking methods based on dedicated hardware devices (e.g., infrared devices and cameras) are used successfully in many commercial products, such the Vive of HTC, and the 360 VR camera of Microsoft. However, these methods are either expensive or have large computation overhead, and not good enough for tracking a user’s gesture or posture in our daily life.
 Compared with the dedicated hardware devices, ubiquitous devices with reliable speakers and microphones can be developed to achieve cheap acoustic-based motion tracking, which is appropriate for low-power and low-cost IoT applications.
 In this demonstration, we propose and implement an acoustic based ranging scheme, which can be developed on commercial mobile devices (e.g., smartphones) to provide fine-grained location and motion tracking for the devices.
-Our key insight is that we can use the acoustic phase change at mobile devices to achieve accurate distance measurement, as shown in Fig. 1.
+Our key insight is that we can use the acoustic phase change to achieve accurate distance measurement, as shown in Fig. 1.
 A prototype system of ranging is implemented on a standard Android smart phone, which could monitor human breathing, as shown in Fig. 2. Experiment results show that our method can achieve an impressive millimeter-level ranging accuracy, and can detect small and slow movements.
 
 
