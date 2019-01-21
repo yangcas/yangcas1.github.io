@@ -132,7 +132,7 @@ Then, unique features are extracted from the power consumption, and used as a fi
 
 ### Research at Shanghai Institute of Microsystem and Information Technology (SIMIT), Chinese Academy of Sciences (CAS), China (Sept. 2016- Present)
 
-I have designed and developed an acoustic based localization and tracking prototype system using an android smartphone and commercial speakers. The system could provide fine-grained mobile interaction in 2D and 3D space with high sensitivity.
+I have designed and developed an acoustic based localization and tracking prototype system using an android smartphone and commercial speakers. The system could provide fine-grained mobile interaction with high sensitivity.
 
 I have designed and developed a prototype system for detecting gas leakage based on the distinctive acoustic spectrum change caused by gas leakage, which will be deployed to some natural gas wells of Shanghai as a pilot project.
 
