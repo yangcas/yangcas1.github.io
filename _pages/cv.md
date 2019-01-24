@@ -6,7 +6,7 @@ toc: true
 
 My name is Yang Liu, a final-year PhD candidate in Communication and Information System at University of Chinese Academy of Sciences (UCAS). My advisor is professor [Yang Yang](http://sist.shanghaitech.edu.cn/sist_en/2018/1227/c3846a38413/page.htm). 
 I received the Bachelor degree from Anhui University, China, in 2012, and Master degree from Beihang University, China, in 2016. 
-My project involves mobile sensing, embedded system, and wireless localization. Currently, my work focuses on novel mobile interaction technologies using wireless signals, especially acoustic signals. Recently, I have designed and developed an acoustic based localization and tracking prototype system using an android smartphone and commercial speakers, which could provide fine-grained motion tracking, and could detect small and slow movement (e.g. human breathing). I’m highly self-motivated, because I hope that what I learned could help me to bring new ideas into real-world applications. 
+My project involves mobile sensing, embedded system, and wireless localization. Currently, my work focuses on novel mobile interaction technologies using wireless signals, especially acoustic signals. Recently, I have designed an acoustic based localization and tracking prototype system using an android smartphone and commercial speakers, which could provide fine-grained motion tracking, and could detect small and slow movement (e.g. human breathing). I’m highly self-motivated, because I hope that what I learned could help me to bring new ideas into real-world applications. 
 
 
 
