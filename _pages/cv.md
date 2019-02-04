@@ -79,7 +79,7 @@ A complete demonstration is shown in the video below or can be found [HERE](http
 
 ###  Low-Cost Real-Time Power Measurement and Abnormal Diagnosis
 Engineers engaged in the development of battery power-supply device are facing huge pressure to reduce the consumption of power.
-During the development, engineers are required to known the real-time power computation of Devices Under Test(DUT).
+During the development, engineers are required to known the real-time power computation of Devices Under Test (DUT).
 In this work, a low-cost and real-time power measurement platform called PTone is proposed to provide a more flexible way for the low-power device development than cumbersome equipment, as shown in Fig.5.
 We compare PTone with Keysight 34465A, and results shows that PTone estimates power to within 0.37% of its correct value, as shown in Fig.6.
 Compared with traditional measuring equipment, such as Keysight 34465A (>$1500 on Amazon), our system (<$20) use could be widely deployed.
