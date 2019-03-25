@@ -4,20 +4,17 @@ title: "About me"
 toc: true
 ---
 
-My name is Yang Liu, a final-year PhD candidate in Communication and Information System at University of Chinese Academy of Sciences (UCAS). My advisor is professor [Yang Yang](http://sist.shanghaitech.edu.cn/sist_en/2018/1227/c3846a38413/page.htm). 
+My name is Yang Liu, a final-year PhD candidate in Communication and Information System at University of Chinese Academy of Sciences (UCAS). My advisor is professor [<font color="blue">[Yang Yang]</font>](http://sist.shanghaitech.edu.cn/sist_en/2018/1227/c3846a38413/page.htm). 
 I received the Bachelor degree from Anhui University, China, in 2012, and Master degree from Beihang University, China, in 2016. 
-My project involves mobile sensing, embedded system, and wireless localization. Currently, my work focuses on novel mobile interaction technologies using wireless signals, especially acoustic signals. Recently, I have designed an acoustic based localization and tracking prototype system using an android smartphone and commercial speakers, which could provide fine-grained motion tracking, and could detect small and slow movement (e.g. human breathing). I’m highly self-motivated, because I hope that what I learned could help me to bring new ideas into real-world applications. 
-
-
+My project involves mobile sensing, embedded system, and wireless localization. Currently, my work focuses on novel mobile interaction technologies using wireless signals, especially acoustic signals.
+I’m highly self-motivated, because I hope that what I learned could help me to bring new ideas into real-world applications. 
 
 <h2 id="projects"><i class="ion-ios-lightbulb"></i> Projects</h2>
 
 ### Fine-grained Acoustic based Ranging (ACM MM'18 demo)
-In recent years,  motion tracking methods based on dedicated hardware devices (e.g., infrared devices and cameras) are used successfully in many commercial products, such the Vive of HTC, and the 360 VR camera of Microsoft. However, these methods are either expensive or have large computation overhead, and not good enough for tracking a user’s gesture or posture in our daily life.
-Compared with the dedicated hardware devices, ubiquitous devices with reliable speakers and microphones can be developed to achieve cheap acoustic-based motion tracking, which is appropriate for low-power and low-cost IoT applications.
-In this demonstration, we propose and implement an acoustic based ranging scheme, which can be developed on commercial mobile devices (e.g., smartphones) to provide fine-grained location and motion tracking for the devices.
+In this demonstration, we propose and implement a fine-grained ranging system on commercial mobile devices (e.g., smartphones).
 Our key insight is that we can use the acoustic phase change to achieve accurate distance measurement, as shown in Fig. 1.
-A prototype system of ranging is implemented on a standard Android smart phone, which could monitor human breathing, as shown in Fig. 2. Experiment results show that our method can achieve an impressive millimeter-level ranging accuracy, and can detect small and slow movements.
+A prototype system of ranging is implemented on a standard Android smart phone, which could monitor human breathing, as shown in Fig. 2. 
 
 
 <table style="text-align:center" class="center">
@@ -36,42 +33,30 @@ A prototype system of ranging is implemented on a standard Android smart phone, 
 We propose and implement a fine-grained and low cost acoustic mobile interaction method called PAMT,  which allows mobile users to interact with computer by using gesture interface in practical indoor environments.
 In this project, we first propose a phase based acoustic ranging method, which could measure accurate moving distance of mobile devices based on the phase change of received signals.
 However, in practical indoor environments, it's challenging to obtain accurate moving distance change based on the phase change due to the attenuation and reflection of acoustic signals.
-In order to address this challenging,  a new parameter called Multipath Effect Ratio (MER) is proposed to estimate and mitigate the effects of multipath fading on received signals at different frequencies.
-MER is calculated from a "constellation" diagram, in which R<sub>β</sub> is orthogonal to R<sub>α</sub> , as shown in Fig.4.
-Based on MER, PAMT is developed to track mobile device's motion by using multiple speakers.
-A prototype system of motion tracking is implemented on a standard Android smart phone. 
-Experiment results show the measurement errors are less than 2 mm and 4 mm in one-dimensional and two-dimensional scenarios, respectively.
-An example to illustrate the migration of multipath fading effects is shown in Fig.3 and Fig.4. 
+In order to address this challenging, we proposed a method to estimate the impact of multipath fading in real-time, as shown in Fig.3. Further, we calculate actual moving distance by combining the moving distances measured at different frequencies, as shown in Fig.4. Experiment results show the measurement errors are less than 2 mm and 4 mm in one-dimensional and two-dimensional scenarios, respectively.
+
 
 <table style="text-align:center" class="center">
 <tr>
-<th><img src="/assets/paper_img/IoT2019/Multipath_fading.png" width="600" /></th>
-<th>  <img src="/assets/paper_img/IoT2019/MDV.gif" width="290" /> </th>
+<th><img src="/assets/paper_img/IoT2019/MDV.gif" width="290" /></th>
+<th>  <img src="/assets/paper_img/IoT2019/Multipath_fading.png" width="600" /> </th>
 </tr>
 <tr>
-<td><Figurenum>Moving distance measured at different
+<td><Figurenum>A new feature indicating multipath fading in real-time</Figurenum></td>
+<td><Figurenum> Moving distance measured at different
 frequencies</Figurenum></td>
-<td><Figurenum>A new feature indicating multipath fading effects </Figurenum></td>
 </tr>
 </table>
 
-As shown in Fig.3, a speaker continuously transmits acoustic signals at 18 KHz, 18.8 KHz and 19.6 KHz at the same time. Then, we move an Android smartphone away uniformly from the speaker at the distance of 1 meter.
-The smartphone obtains the signals frame by frame, and each frame has 512 sampling points with 48 KHz sampling rate.
-Fig. 4 shows the the constellation diagram of carrier signals near Frame A in Fig.3.
-The phase at the outer ring can be measured more accurately than that near the center due to larger signal to noise ratio. Thus, the shape ring can be seen as a feature to indicate the impact of multipath fading.
-From the Fig.4, we can seen that the signal at 18.8 KHz is more close to the outer ring than others, so that we can select the phase change at 18.8 KHz to estimate moving distance in Frame A, as shown in Fig. 3. We repeat the selection in each frame, and obtain the estimation of total moving distance.
-
-
-
-A brief introduction of this project is shown in the video below or can be found [HERE](https://1drv.ms/v/s!AnKk_YbMz-w-eJUKCf7u5CKMRQk).
-
+A brief introduction of this project is shown in the video below or can be found [<font color="blue">[HERE]</font>](https://1drv.ms/v/s!AnKk_YbMz-w-eJUKCf7u5CKMRQk).
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/HTM1ShTAH2A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>  
 
 
-A complete demonstration is shown in the video below or can be found [HERE](https://1drv.ms/v/s!AnKk_YbMz-w-d-nGrF4VN8KJ40U).
+A complete demonstration is shown in the video below or can be found 
+[<font color="blue">[HERE]</font>](https://1drv.ms/v/s!AnKk_YbMz-w-d-nGrF4VN8KJ40U)
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/GcR-4sVL_1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -85,8 +70,6 @@ We compare PTone with Keysight 34465A, and results shows that PTone estimates po
 Compared with traditional measuring equipment, such as Keysight 34465A (>$1500 on Amazon), our system (<$20) use could be widely deployed.
 Based on the real-time power consumption measured by the system, we propose a SVM based method to diagnose abnormal status of DUT.
 Our key insight is that the real-time power consumption of low power device changes with the periodic system process, such as data collecting, simple signal processing, signal transmission, and sleep.
-Then, unique features are extracted from the power consumption, and used as a fingerprint to diagnose the system's status.
-
 
 <table style="text-align:center" class="center">
 <tr>
@@ -122,37 +105,30 @@ Then, unique features are extracted from the power consumption, and used as a fi
 
 <h2 id="publications"><i class="ion-ios-book"></i> Publications</h2>
 
-1. **Yang Liu**, Wuxiong Zhang, Yang Yang, Weidong Fang, Fei Qin, and Xuewu Dai, “RAMTEL: Robust Acoustic Motion Tracking using Extreme Learning Machine for Smart Cities”, IEEE Internet of Things Journal (IF: 5.863, to be appeared).
-2.	**Yang Liu**, Wuxiong Zhang, Yang Yang, Weidong Fang, Fei Qin, Xuewu Dai, PAMT: Phase-based Acoustic Motion Tracking in Multipath Fading Environments. IEEE Conference on Computer Communications (INFOCOM’19, acceptance rate: 19.7%).
-3.	**Yang Liu**, Yang Yang, Weidong Fang, Wuxiong Zhang, Demo: Phase-based Acoustic Localization and Motion Tracking for Mobile Interaction. ACM multimedia conference (ACM MM’18).
-4.	**Yang Liu**, Yubing Wang, Weiwei Gao, Wuxiong Zhang, Yang Yang. A Novel Low-Cost Real-Time Power Measurement Platform for LoWPAN IoT Devices. Mobile Information Systems. 2017. 1-14.
-5.	Weidong Fang, Wuxiong Zhang, Yang Yang, **Yang Liu**, Wei Chen. A resilient trust management scheme for defending against reputation time-varying attacks based on BETA distribution. Science China Information Sciences, 2017, 60(4):040305.
+1. **Yang Liu**, Wuxiong Zhang, Yang Yang, Weidong Fang, Fei Qin, and Xuewu Dai. RAMTEL: Robust Acoustic Motion Tracking using Extreme Learning Machine for Smart Cities. *IEEE Internet of Things Journal* (IF: 5.863). [<font color="blue">[PDF]</font>](/_pdf/RAMTEL.pdf)
+2.	**Yang Liu**, Wuxiong Zhang, Yang Yang, Weidong Fang, Fei Qin, and Xuewu Dai. PAMT: Phase-based Acoustic Motion Tracking in Multipath Fading Environments. *IEEE Conference on Computer Communications* (INFOCOM’19, acceptance rate: 19.7%). [<font color="blue">[PDF]</font>](/_pdf/PAMT.pdf)
+3. Weidong Fang, Wuxiong Zhang, Wei Chen, **Yang Liu**, and Chaogang Tang. TMSRS: Trust Management-based Secure Routing Scheme in Industrial Wireless Sensor Network with Fog Computing. *Wireless Networks*, 2019
+4.	**Yang Liu**, Yang Yang, Weidong Fang, and Wuxiong Zhang. Demo: Phase-based Acoustic Localization and Motion Tracking for Mobile Interaction. *ACM multimedia conference* (ACM MM’18). [<font color="blue">[PDF]</font>](/_pdf/Demo2018.pdf)
+5.	**Yang Liu**, Yubing Wang, Weiwei Gao, Wuxiong Zhang, and Yang Yang. A Novel Low-Cost Real-Time Power Measurement Platform for LoWPAN IoT Devices. *Mobile Information Systems*. 2017. 1-14. [<font color="blue">[PDF]</font>](/_pdf/PTone.pdf)
+6.	Weidong Fang, Wuxiong Zhang, Yang Yang, **Yang Liu**, and Wei Chen. A resilient trust management scheme for defending against reputation time-varying attacks based on BETA distribution. *Science China Information Sciences*, 2017, 60(4):040305. [<font color="blue">[PDF]</font>](/_pdf/trust_management.pdf)
+
+
+
+
   
 <h2 id="work-experience"><i class="ion-ios-filing"></i> Work Experience</h2>
 
-### Research at Shanghai Institute of Microsystem and Information Technology (SIMIT), Chinese Academy of Sciences (CAS), China (Sept. 2016- Present)
+* Research at Shanghai Institute of Microsystem and Information Technology (SIMIT), Chinese Academy of Sciences (CAS), China (Sept. 2016- Present)
 
-I have designed an acoustic based localization and tracking prototype system using an android smartphone and commercial speakers. The system could provide fine-grained mobile interaction with high sensitivity.
 
-I have developed a prototype system for detecting gas leakage based on the distinctive acoustic spectrum change caused by gas leakage, which will be deployed to several natural gas wells of Shanghai as a pilot project.
+* Research at Shanghai Research Center for Wireless Communications, Shanghai, China (Oct. 2014- Sept. 2016)
 
-### Research at Shanghai Research Center for Wireless Communications, Shanghai, China (Oct. 2014- Sept. 2016)
 
-I have designed and developed a prototype system for intelligent pillow to avoid snoring using an embedded system, which could adjust the height of the pillow automatically according to the snore it heard. 
+*  Project Intern at Topelec Tech, Co. Ltd, Beijing,China (Feb. 2014- Aug. 2014)
 
-By migrating and modifying the Linux kernel module (ath9k) of OpenWrt, I have developed OpenWrt based wireless router, which could get Channel State Information (CSI) of WiFi signal between commercial router and smartphones.
+*  Teaching Assistant (Sept. 2013- Jan. 2014)
 
-### Project Intern at Topelec Tech, Co. Ltd, Beijing,China (Feb. 2014- Aug. 2014)
+* Intern at EDA Laboratory of Beihang University, Beijing, China (June 2013- Sept. 2013)
 
-I have finished studies and applications about network protocol in practical projects, such as uIP, Zigbee 2007/pro and 900M RFID.
-
-### Teaching Assistant (Sept. 2013- Jan. 2014)
-As a teaching assistant, I assisted our teacher to address students' questions and gave a course about digital circuit design experiment for undergraduates.
-
-### Intern at EDA Laboratory of Beihang University, Beijing, China (June 2013- Sept. 2013)
-Before the start of my graduate studies, Professor Jinming Dong gave me an opportunity to join the EDA laboratory. 
-
-### Summer student at school’s innovation Laboratory of Anhui University (July 2009- Aug. 2009)
-I had the opportunity to work at the school’s innovation lab for National Undergraduate Electronic Design Contest.
-
+*  Summer student at school’s innovation Laboratory of Anhui University (July 2009- Aug. 2009)
 
