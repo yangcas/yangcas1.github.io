@@ -109,10 +109,6 @@ Our key insight is that the real-time power consumption of low power device chan
 * Optimization theory, machine learning.
 
 
-
-
-
-  
 <h2 id="work-experience"><i class="ion-ios-filing"></i> Work Experience</h2>
 
 * Research at Shanghai Institute of Microsystem and Information Technology (SIMIT), Chinese Academy of Sciences (CAS), China (Sept. 2016- Present)
