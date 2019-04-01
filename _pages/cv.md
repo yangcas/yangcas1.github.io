@@ -59,7 +59,7 @@ A complete demonstration is shown in the video below or can be found
 [<font color="blue">[HERE]</font>](https://1drv.ms/v/s!AnKk_YbMz-w-d-nGrF4VN8KJ40U)
 
 <div class="video-container">
-<iframe src="https://www.youtube.com/embed/GcR-4sVL_1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/XJROYu_67ug" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>  
 
 ###  Low-Cost Real-Time Power Measurement and Abnormal Diagnosis
@@ -109,17 +109,33 @@ Our key insight is that the real-time power consumption of low power device chan
 * Optimization theory, machine learning.
 
 
-<h2 id="work-experience"><i class="ion-ios-filing"></i> Work Experience</h2>
+<h2 id="work-experience"><i class="ion-ios-filing"></i> RESEARCH and Work Experience</h2>
 
 * Research at Shanghai Institute of Microsystem and Information Technology (SIMIT), Chinese Academy of Sciences (CAS), China (Sept. 2016- Present)
-
+ ** Research Assistant(with Dr. Wuxiong Zhang)
+ *** Project:
+ *** 
 * Research at Shanghai Research Center for Wireless Communications, Shanghai, China (Oct. 2014- Sept. 2016)
 
 *  Project Intern at Topelec Tech, Co. Ltd, Beijing,China (Feb. 2014- Aug. 2014)
+ ** Research Assistant(with Prof. Jinmin Dong)
+ *** Project:
+ *** 
+
+
 
 *  Teaching Assistant (Sept. 2013- Jan. 2014)
+
+
 
 * Intern at EDA Laboratory of Beihang University, Beijing, China (June 2013- Sept. 2013)
 
 *  Summer student at school’s innovation Laboratory of Anhui University (July 2009- Aug. 2009)
+
+Invited talks and conference presentations
+
+Volunteer
+
+DSP
+
 
