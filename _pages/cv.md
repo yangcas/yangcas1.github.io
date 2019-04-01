@@ -85,7 +85,7 @@ Our key insight is that the real-time power consumption of low power device chan
 <h2 id="publications"><i class="ion-ios-book"></i> Publications</h2>
 
 1. **Yang Liu**, Wuxiong Zhang, Yang Yang, Weidong Fang, Fei Qin, and Xuewu Dai. RAMTEL: Robust Acoustic Motion Tracking using Extreme Learning Machine for Smart Cities. *IEEE Internet of Things Journal* (IF: 5.863). [<font color="blue">[PDF]</font>](/_pdf/RAMTEL.pdf)
-2.	**Yang Liu**, Wuxiong Zhang, Yang Yang, Weidong Fang, Fei Qin, and Xuewu Dai. PAMT: Phase-based Acoustic Motion Tracking in Multipath Fading Environments. *IEEE Conference on Computer Communications* (INFOCOM’19, acceptance rate: 19.7%). [<font color="blue">[PDF]</font>](/_pdf/PAMT.pdf)
+2.	**Yang Liu**, Wuxiong Zhang, Yang Yang, Weidong Fang, Fei Qin, and Xuewu Dai. PAMT: Phase-based Acoustic Motion Tracking in Multipath Fading Environments. *IEEE Conference on Computer Communications* (INFOCOM’19, Rank A ,acceptance rate: 19.7%). [<font color="blue">[PDF]</font>](/_pdf/PAMT.pdf)
 3. Weidong Fang, Wuxiong Zhang, Wei Chen, **Yang Liu**, and Chaogang Tang. TMSRS: Trust Management-based Secure Routing Scheme in Industrial Wireless Sensor Network with Fog Computing. *Wireless Networks*, 2019.
 4.	**Yang Liu**, Yang Yang, Weidong Fang, and Wuxiong Zhang. Demo: Phase-based Acoustic Localization and Motion Tracking for Mobile Interaction. *ACM multimedia conference* (ACM MM’18). [<font color="blue">[PDF]</font>](/_pdf/Demo2018.pdf)
 5.	**Yang Liu**, Yubing Wang, Weiwei Gao, Wuxiong Zhang, and Yang Yang. A Novel Low-Cost Real-Time Power Measurement Platform for LoWPAN IoT Devices. *Mobile Information Systems*, 2017, 1-14. [<font color="blue">[PDF]</font>](/_pdf/PTone.pdf)
