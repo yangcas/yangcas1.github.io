@@ -109,6 +109,21 @@ Our key insight is that the real-time power consumption of low power device chan
 * Optimization theory, machine learning.
 
 
+<h2 id="work-experience"><i class="ion-ios-filing"></i> RESEARCH and Work Experience</h2>
+
+* Research at Shanghai Institute of Microsystem and Information Technology (SIMIT), Chinese Academy of Sciences (CAS), China (Sept. 2016- Present)
+ 
+* Research at Shanghai Research Center for Wireless Communications, Shanghai, China (Oct. 2014- Sept. 2016)
+
+
+*  Project Intern at Topelec Tech, Co. Ltd, Beijing,China (Feb. 2014- Aug. 2014)
+
+*  Teaching Assistant (Sept. 2013- Jan. 2014)
+
+* Intern at EDA Laboratory of Beihang University, Beijing, China (June 2013- Sept. 2013)
+
+*  Summer student at school’s innovation Laboratory of Anhui University (July 2009- Aug. 2009)
+
 
 
 
