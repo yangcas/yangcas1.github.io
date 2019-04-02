@@ -30,8 +30,8 @@ A prototype system of ranging is implemented on a standard Android smart phone, 
 
 ### PAMT: Phase-based Acoustic Motion Tracking in Multipath Fading Environments (INFOCOM'19)
 
-We propose and implement a fine-grained and low cost acoustic mobile interaction method called PAMT,  which allows mobile users to interact with computer by using gesture interface in practical indoor environments.
-In this project, we first propose a phase based acoustic ranging method, which could measure accurate moving distance of mobile devices based on the phase change of received signals.
+We propose and implement a fine-grained and low cost acoustic mobile interaction method called PAMT,  which allows mobile users to interact with computer by using gesture interface in practical indoor environments. The system could provide economical and flexible navigation and gesture recognition for VR/AR users.
+In this project, we first propose a ranging method, which could measure accurate moving distance of mobile devices based on the phase change of received signals.
 However, in practical indoor environments, it's challenging to obtain accurate moving distance change based on the phase change due to the attenuation and reflection of acoustic signals.
 In order to address this challenging, we proposed a method to estimate the impact of multipath fading in real-time, as shown in Fig.3. Further, we calculate actual moving distance by combining the moving distances measured at different frequencies, as shown in Fig.4. Experiment results show the measurement errors are less than 2 mm and 4 mm in one-dimensional and two-dimensional scenarios, respectively.
 
@@ -106,7 +106,7 @@ Our key insight is that the real-time power consumption of low power device chan
   * IoT software development.
   * Linux-based system development, such as Ubuntu, OpenWrt.
   * FPGA development
-* Optimization theory, machine learning.
+* Applications of optimization theory, applications of machine learning.
 
 
 <h2 id="work-experience"><i class="ion-ios-filing"></i> RESEARCH and Work Experience</h2>
