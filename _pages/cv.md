@@ -34,8 +34,6 @@ We propose and implement a fine-grained and low cost acoustic mobile interaction
 In this project, we first propose a ranging method, which could measure accurate moving distance of mobile devices based on the phase change of received signals.
 However, in practical indoor environments, it's challenging to obtain accurate moving distance change based on the phase change due to the attenuation and reflection of acoustic signals.
 
-
-
 <table style="text-align:center" class="center">
 <tr>
 <th><img src="/assets/paper_img/IoT2019/MDV.gif" width="290" /></th>
@@ -47,6 +45,7 @@ However, in practical indoor environments, it's challenging to obtain accurate m
 frequencies</Figurenum></td>
 </tr>
 </table>
+
 In order to address this challenging, we proposed a method to estimate the impact of multipath fading in real-time, as shown in Fig.3. Further, we calculate actual moving distance by combining the moving distances measured at different frequencies, as shown in Fig.4. Experiment results show the measurement errors are less than 2 mm and 4 mm in one-dimensional and two-dimensional scenarios, respectively.
 
 A brief introduction of this project is shown in the video below or can be found [<font color="blue">[HERE]</font>](https://1drv.ms/v/s!AnKk_YbMz-w-e6H52PwQUw1ut-Q).
@@ -110,7 +109,7 @@ Our key insight is that the real-time power consumption of low power device chan
 * Applications of optimization theory, applications of machine learning.
 
 
-<h2 id="work-experience"><i class="ion-ios-filing"></i> RESEARCH and Work Experience</h2>
+<h2 id="work-experience"><i class="ion-ios-filing"></i>Work Experience</h2>
 
 * Research at Shanghai Institute of Microsystem and Information Technology (SIMIT), Chinese Academy of Sciences (CAS), China (Sept. 2016- Present)
  
