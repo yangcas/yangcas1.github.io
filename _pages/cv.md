@@ -88,7 +88,7 @@ Our key insight is that the real-time power consumption of low power device chan
 2.	**Yang Liu**, Wuxiong Zhang, Yang Yang, Weidong Fang, Fei Qin, and Xuewu Dai. PAMT: Phase-based Acoustic Motion Tracking in Multipath Fading Environments. *IEEE Conference on Computer Communications* 2019(INFOCOM’19).(Rank A ,acceptance rate: 19.7%). [<font color="blue">[PDF]</font>](/_pdf/PAMT.pdf)
 3. Weidong Fang, Wuxiong Zhang, Wei Chen, **Yang Liu**, and Chaogang Tang. TMSRS: Trust Management-based Secure Routing Scheme in Industrial Wireless Sensor Network with Fog Computing. *Wireless Networks*, 2019.
 4.	**Yang Liu**, Yang Yang, Weidong Fang, and Wuxiong Zhang. Demo: Phase-based Acoustic Localization and Motion Tracking for Mobile Interaction. *ACM multimedia conference* (ACM MM’18). [<font color="blue">[PDF]</font>](/_pdf/Demo2018.pdf)
-5.	**Yang Liu**, Wuxiong Zhang and Weidong Fang, IoT sensing technology based on acoustic phase. *Chinese Journal on Internet of Things*, 2018. (a Chinese journal)
+5.	**Yang Liu**, Wuxiong Zhang and Weidong Fang, IoT sensing technology based on acoustic phase. *Chinese Journal on Internet of Things*, 2018. (A Chinese journal)
 6.	**Yang Liu**, Yubing Wang, Weiwei Gao, Wuxiong Zhang, and Yang Yang. A Novel Low-Cost Real-Time Power Measurement Platform for LoWPAN IoT Devices. *Mobile Information Systems*, 2017. [<font color="blue">[PDF]</font>](/_pdf/PTone.pdf)
 7.	Weidong Fang, Wuxiong Zhang, Yang Yang, **Yang Liu**, and Wei Chen. A resilient trust management scheme for defending against reputation time-varying attacks based on BETA distribution. *Science China Information Sciences*, 2017. [<font color="blue">[PDF]</font>](/_pdf/trust_management.pdf)
 
