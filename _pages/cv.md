@@ -48,10 +48,10 @@ frequencies</Figurenum></td>
 
 In order to address this challenging, we proposed a method to estimate the impact of multipath fading in real-time, as shown in Fig.3. Further, we calculate actual moving distance by combining the moving distances measured at different frequencies, as shown in Fig.4. Experiment results show the measurement errors are less than 2 mm and 4 mm in one-dimensional and two-dimensional scenarios, respectively.
 
-A brief introduction of this project is shown in the video below or can be found [<font color="blue">[HERE]</font>](https://1drv.ms/v/s!AnKk_YbMz-w-e6H52PwQUw1ut-Q).
+A brief introduction of this project is shown in the video below or can be found [<font color="blue">[HERE]</font>](https://1drv.ms/v/s!AnKk_YbMz-w-fKpdc1fRMwMw7aE).
 
 <div class="video-container">
-<iframe src="https://www.youtube.com/embed/tGAVWNPspic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/2D_CHgDpJIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>  
 
 
@@ -84,12 +84,13 @@ Our key insight is that the real-time power consumption of low power device chan
 
 <h2 id="publications"><i class="ion-ios-book"></i> Publications</h2>
 
-1. **Yang Liu**, Wuxiong Zhang, Yang Yang, Weidong Fang, Fei Qin, and Xuewu Dai. RAMTEL: Robust Acoustic Motion Tracking using Extreme Learning Machine for Smart Cities. *IEEE Internet of Things Journal* (IF: 5.863). [<font color="blue">[PDF]</font>](/_pdf/RAMTEL.pdf)
-2.	**Yang Liu**, Wuxiong Zhang, Yang Yang, Weidong Fang, Fei Qin, and Xuewu Dai. PAMT: Phase-based Acoustic Motion Tracking in Multipath Fading Environments. *IEEE Conference on Computer Communications* (INFOCOM’19, Rank A ,acceptance rate: 19.7%). [<font color="blue">[PDF]</font>](/_pdf/PAMT.pdf)
+1. **Yang Liu**, Wuxiong Zhang, Yang Yang, Weidong Fang, Fei Qin, and Xuewu Dai. RAMTEL: Robust Acoustic Motion Tracking using Extreme Learning Machine for Smart Cities. *IEEE Internet of Things Journal*, 2019. (IF: 5.863) [<font color="blue">[PDF]</font>](/_pdf/RAMTEL.pdf)
+2.	**Yang Liu**, Wuxiong Zhang, Yang Yang, Weidong Fang, Fei Qin, and Xuewu Dai. PAMT: Phase-based Acoustic Motion Tracking in Multipath Fading Environments. *IEEE Conference on Computer Communications* 2019(INFOCOM’19).(Rank A ,acceptance rate: 19.7%). [<font color="blue">[PDF]</font>](/_pdf/PAMT.pdf)
 3. Weidong Fang, Wuxiong Zhang, Wei Chen, **Yang Liu**, and Chaogang Tang. TMSRS: Trust Management-based Secure Routing Scheme in Industrial Wireless Sensor Network with Fog Computing. *Wireless Networks*, 2019.
 4.	**Yang Liu**, Yang Yang, Weidong Fang, and Wuxiong Zhang. Demo: Phase-based Acoustic Localization and Motion Tracking for Mobile Interaction. *ACM multimedia conference* (ACM MM’18). [<font color="blue">[PDF]</font>](/_pdf/Demo2018.pdf)
-5.	**Yang Liu**, Yubing Wang, Weiwei Gao, Wuxiong Zhang, and Yang Yang. A Novel Low-Cost Real-Time Power Measurement Platform for LoWPAN IoT Devices. *Mobile Information Systems*, 2017, 1-14. [<font color="blue">[PDF]</font>](/_pdf/PTone.pdf)
-6.	Weidong Fang, Wuxiong Zhang, Yang Yang, **Yang Liu**, and Wei Chen. A resilient trust management scheme for defending against reputation time-varying attacks based on BETA distribution. *Science China Information Sciences*, 2017, 60(4):040305. [<font color="blue">[PDF]</font>](/_pdf/trust_management.pdf)
+5.	**Yang Liu**, Wuxiong Zhang and Weidong Fang, IoT sensing technology based on acoustic phase. *Chinese Journal on Internet of Things*, 2018. (a Chinese journal)
+6.	**Yang Liu**, Yubing Wang, Weiwei Gao, Wuxiong Zhang, and Yang Yang. A Novel Low-Cost Real-Time Power Measurement Platform for LoWPAN IoT Devices. *Mobile Information Systems*, 2017. [<font color="blue">[PDF]</font>](/_pdf/PTone.pdf)
+7.	Weidong Fang, Wuxiong Zhang, Yang Yang, **Yang Liu**, and Wei Chen. A resilient trust management scheme for defending against reputation time-varying attacks based on BETA distribution. *Science China Information Sciences*, 2017. [<font color="blue">[PDF]</font>](/_pdf/trust_management.pdf)
 
 
 
@@ -110,19 +111,17 @@ Our key insight is that the real-time power consumption of low power device chan
 
 
 <h2 id="work-experience"><i class="ion-ios-filing"></i>Work Experience</h2>
+* Research at Shanghai Institute of Fog Computing Technology (SHIFT), Shanghai, China. (April. 2018- Present)
 
-* Research at Shanghai Institute of Microsystem and Information Technology (SIMIT), Chinese Academy of Sciences (CAS), China (Sept. 2016- Present)
+* Research at Shanghai Institute of Microsystem and Information Technology (SIMIT), Chinese Academy of Sciences (CAS), China. (Sept. 2016- April. 2018)
  
-* Research at Shanghai Research Center for Wireless Communications, Shanghai, China (Oct. 2014- Sept. 2016)
+* Research at Shanghai Research Center for Wireless Communications, Shanghai, China. (Oct. 2014- Sept. 2016)
 
+* Research and Teaching Assistant at Beihang University. (Sept. 2013- Aug. 2014)
 
-*  Project Intern at Topelec Tech, Co. Ltd, Beijing,China (Feb. 2014- Aug. 2014)
+* Intern at EDA Laboratory of Beihang University, Beijing, China. (June 2013- Sept. 2013)
 
-*  Teaching Assistant (Sept. 2013- Jan. 2014)
-
-* Intern at EDA Laboratory of Beihang University, Beijing, China (June 2013- Sept. 2013)
-
-*  Summer student at school’s innovation Laboratory of Anhui University (July 2009- Aug. 2009)
+* Summer student at school’s innovation Laboratory of Anhui University. (July 2009- Aug. 2009)
 
 
 
