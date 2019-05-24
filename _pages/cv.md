@@ -117,7 +117,7 @@ Our key insight is that the real-time power consumption of low power device chan
  
 * Research at Shanghai Research Center for Wireless Communications, Shanghai, China. (Oct. 2014- Sept. 2016)
 
-* Research and Teaching Assistant at Beihang University. (Sept. 2013- Aug. 2014)
+* Research and Teaching Assistant at Beihang University, Beijing, China. (Sept. 2013- Aug. 2014)
 
 * Intern at EDA Laboratory of Beihang University, Beijing, China. (June 2013- Sept. 2013)
 
