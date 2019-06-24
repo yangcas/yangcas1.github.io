@@ -111,17 +111,17 @@ Our key insight is that the real-time power consumption of low power device chan
 
 
 <h2 id="work-experience"><i class="ion-ios-filing"></i> Experience</h2>
-* Research at Shanghai Institute of Fog Computing Technology (SHIFT), Shanghai, China. (April. 2018- Present)
+* Research at Shanghai Institute of Fog Computing Technology (SHIFT), Shanghai, China. (April. 2018 - Present)
 
-* Research at Shanghai Institute of Microsystem and Information Technology (SIMIT), Chinese Academy of Sciences (CAS), China. (Sept. 2016- April. 2018)
+* Research at Shanghai Institute of Microsystem and Information Technology (SIMIT), Chinese Academy of Sciences (CAS), China. (Sept. 2016 - April. 2018)
  
-* Research at Shanghai Research Center for Wireless Communications, Shanghai, China. (Oct. 2014- Sept. 2016)
+* Research at Shanghai Research Center for Wireless Communications, Shanghai, China. (Oct. 2014 - Sept. 2016)
 
-* Research and Teaching Assistant at Beihang University, Beijing, China. (Sept. 2013- Aug. 2014)
+* Research and Teaching Assistant at Beihang University, Beijing, China. (Sept. 2013 - Aug. 2014)
 
-* Intern at EDA Laboratory of Beihang University, Beijing, China. (June 2013- Sept. 2013)
+* Intern at EDA Laboratory of Beihang University, Beijing, China. (June 2013 - Aug. 2013)
 
-* Summer student at school’s innovation Laboratory of Anhui University. (July 2009- Aug. 2009)
+* Summer student at school’s innovation Laboratory of Anhui University. (July 2009 - Aug. 2009)
 
 
 
