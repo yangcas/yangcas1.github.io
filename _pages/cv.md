@@ -4,10 +4,10 @@ title: "About me"
 toc: true
 ---
 
-My name is Yang Liu, a final-year PhD candidate in Communication and Information System at University of Chinese Academy of Sciences (UCAS). My advisor is professor [<font color="blue">[Yang Yang]</font>](http://sist.shanghaitech.edu.cn/sist_en/2018/1227/c3846a38413/page.htm). 
+My name is Yang Liu. I received the Ph.D. degree in Communication and Information System from the University of Chinese Academy of Sciences (UCAS), China, in July 2019. My advisor is professor [<font color="blue">[Yang Yang]</font>](http://sist.shanghaitech.edu.cn/sist_en/2018/1227/c3846a38413/page.htm). 
 I received the Bachelor degree from Anhui University, China, in 2012, and Master degree from Beihang University, China, in 2016. 
-My projects involve mobile computing, embedded system, and wireless network. 
-I'm highly self-motivated, and interesting in interdisciplinary studies. I believe that what I learned could bring my ideas into real-world applications and address some daunting problems.
+My projects involve mobile computing, embedded systems, and wireless communications. 
+I'm highly self-motivated, and interesting in interdisciplinary studies.
 
 <h2 id="projects"><i class="ion-ios-lightbulb"></i> Projects</h2>
 
@@ -86,10 +86,10 @@ Our key insight is that the real-time power consumption of low power device chan
 
 1. **Yang Liu**, Wuxiong Zhang, Yang Yang, Weidong Fang, Fei Qin, and Xuewu Dai. RAMTEL: Robust Acoustic Motion Tracking using Extreme Learning Machine for Smart Cities. *IEEE Internet of Things Journal*, 2019. (IF: 5.863) [<font color="blue">[PDF]</font>](/_pdf/RAMTEL.pdf)
 2.	**Yang Liu**, Wuxiong Zhang, Yang Yang, Weidong Fang, Fei Qin, and Xuewu Dai. PAMT: Phase-based Acoustic Motion Tracking in Multipath Fading Environments. *IEEE Conference on Computer Communications* 2019(INFOCOM’19).(Rank A ,acceptance rate: 19.7%). [<font color="blue">[PDF]</font>](/_pdf/PAMT.pdf)
-3. Weidong Fang, Wuxiong Zhang, Wei Chen, **Yang Liu**, and Chaogang Tang. TMSRS: Trust Management-based Secure Routing Scheme in Industrial Wireless Sensor Network with Fog Computing. *Wireless Networks*, 2019.
-4.	**Yang Liu**, Yang Yang, Weidong Fang, and Wuxiong Zhang. Demo: Phase-based Acoustic Localization and Motion Tracking for Mobile Interaction. *ACM multimedia conference* (ACM MM’18). [<font color="blue">[PDF]</font>](/_pdf/Demo2018.pdf)
-5.	**Yang Liu**, Wuxiong Zhang and Weidong Fang, IoT sensing technology based on acoustic phase. *Chinese Journal on Internet of Things*, 2018. (A Chinese journal)
-6.	**Yang Liu**, Yubing Wang, Weiwei Gao, Wuxiong Zhang, and Yang Yang. A Novel Low-Cost Real-Time Power Measurement Platform for LoWPAN IoT Devices. *Mobile Information Systems*, 2017. [<font color="blue">[PDF]</font>](/_pdf/PTone.pdf)
+3.	**Yang Liu**, Yang Yang, Weidong Fang, and Wuxiong Zhang. Demo: Phase-based Acoustic Localization and Motion Tracking for Mobile Interaction. *ACM multimedia conference* (ACM MM’18). [<font color="blue">[PDF]</font>](/_pdf/Demo2018.pdf)
+4.	**Yang Liu**, Wuxiong Zhang and Weidong Fang, IoT sensing technology based on acoustic phase. *Chinese Journal on Internet of Things*, 2018. (A Chinese journal)
+5.	**Yang Liu**, Yubing Wang, Weiwei Gao, Wuxiong Zhang, and Yang Yang. A Novel Low-Cost Real-Time Power Measurement Platform for LoWPAN IoT Devices. *Mobile Information Systems*, 2017. [<font color="blue">[PDF]</font>](/_pdf/PTone.pdf)
+6. Weidong Fang, Wuxiong Zhang, Wei Chen, **Yang Liu**, and Chaogang Tang. TMSRS: Trust Management-based Secure Routing Scheme in Industrial Wireless Sensor Network with Fog Computing. *Wireless Networks*, 2019. [<font color="blue">[PDF]</font>](/_pdf/TMSRS.pdf)
 7.	Weidong Fang, Wuxiong Zhang, Yang Yang, **Yang Liu**, and Wei Chen. A resilient trust management scheme for defending against reputation time-varying attacks based on BETA distribution. *Science China Information Sciences*, 2017. [<font color="blue">[PDF]</font>](/_pdf/trust_management.pdf)
 
 
@@ -107,15 +107,15 @@ Our key insight is that the real-time power consumption of low power device chan
   * IoT software development.
   * Linux-based system development, such as Ubuntu, OpenWrt.
   * FPGA development
-* Applications of optimization theory, applications of machine learning.
+* Applications of machine learning technologies.
 
 
 <h2 id="work-experience"><i class="ion-ios-filing"></i> Experience</h2>
-* Research at Shanghai Institute of Fog Computing Technology (SHIFT), Shanghai, China. (April. 2018 - Present)
+* Research at Shanghai Institute of Fog Computing Technology (SHIFT), Shanghai, China. (Apr. 2018 - July 2019)
 
 * Research at Shanghai Institute of Microsystem and Information Technology (SIMIT), Chinese Academy of Sciences (CAS), China. (Sept. 2016 - April. 2018)
  
-* Research at Shanghai Research Center for Wireless Communications, Shanghai, China. (Oct. 2014 - Sept. 2016)
+* Research at Shanghai Research Center for Wireless Communications, Shanghai, China. (Oct. 2014 - Sep. 2016)
 
 * Research and Teaching Assistant at Beihang University, Beijing, China. (Sept. 2013 - Aug. 2014)
 
